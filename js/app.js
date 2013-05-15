@@ -373,7 +373,7 @@ function getActionDetails(state, type) {
        for (i = 0; i < features.length; i++) {
             if (features[i].state == state && features[i].actiontype == type) {
               content += "<tr><td>" + features[i].caseno + "</td>";
-              content += "<td>" + features[i].date + "</td>";
+              content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
               content += "<td>" + features[i].city + "</td>";
               content += "<td>$" + features[i].amount + "</td>";
@@ -400,7 +400,7 @@ function getActionDetails(state, type) {
        for (i = 0; i < features.length; i++) {
             if (features[i].actiontype == type) {
               content += "<tr><td>" + features[i].caseno + "</td>";
-              content += "<td>" + features[i].date + "</td>";
+              content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
               content += "<td>" + features[i].state + "</td>";
               content += "<td>$" + features[i].amount + "</td>";
@@ -412,7 +412,7 @@ function getActionDetails(state, type) {
        for (i = 0; i < features.length; i++) {
             if (features[i].actiontype != "NAL" && features[i].actiontype != "NOUO" && features[i].actiontype != "FO") {
               content += "<tr><td>" + features[i].caseno + "</td>";
-              content += "<td>" + features[i].date + "</td>";
+              content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
               content += "<td>" + features[i].state + "</td>";
               content += "<td>$" + features[i].amount + "</td>";
