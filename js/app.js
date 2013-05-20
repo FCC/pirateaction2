@@ -1,6 +1,6 @@
 
 
-var data,nationCountMax, nationCountMin,dataByState,otherDataByState,nalDataByState,nouoDataByState,foDataByState;
+var data,dataByState,otherDataByState,nalDataByState,nouoDataByState,foDataByState;
 var currentType = 'all';
 var actionDetails = {
   state: '',
@@ -9,8 +9,10 @@ var actionDetails = {
 var caseTypeName={"NAL":"NAL", "NOUO":"NOUO", "FO":"FORFEITURE ORDER", "OHTER": "OTHER"};
 var map = L.mapbox.map('map', 'fcc.map-toolde8w')
       .setView([39.5, -98.5], 4);
+
 var radius = d3.scale.sqrt().range([12,40])
 var format = d3.time.format("%m/%d/%Y");
+
 var dataFileName = "pirateaction.csv";
 if (window.location.href.split("#")[1] == "test"){
   dataFileName = "pirateaction_test.csv";
@@ -49,13 +51,7 @@ function ready(error, piratedata,stateCentroid){
     .key(function(d){return d.properties.abbrname})
     .map(stateCentroid.features)
 
-  var nationCountArray = [], otherCountArray=[], foCountArray=[],nouoCountArray=[],nalCountArray=[];
-  dataByState.forEach(function(d){
-    nationCountArray.push (d.values.length);
-  });
-  nationCountMax = d3.max(nationCountArray);
-  nationCountMin = d3.min(nationCountArray);
-
+  radius.domain(d3.extent(dataByState,function(d){return d.values.length}));
   drawCircle('all');
 
 }
@@ -66,7 +62,6 @@ function drawCircle(type){
   var dataset;
   if (type == 'all'){
     dataset = dataByState;
-    radius.domain([nationCountMin,nationCountMax]);
   }
   else if (type == 'NOUO'){
     dataset = nouoDataByState;
@@ -369,7 +364,7 @@ function getActionDetails(state, type) {
   //console.log(state,dataType);
   if (state != "allstates"){
     content += "<table id='tbl-actionDetails' class='tablesorter'><thead><tr><th><div class='sort-wrapper'>File &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Date &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Name &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>City &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Amt. &nbsp;<span class='sort'></span></div></th><th>URL</th></tr></thead>";
-    // if (type != "OTHER"){
+     if (type != "OTHER"){
        for (i = 0; i < features.length; i++) {
             if (features[i].state == state && features[i].actiontype == type) {
               content += "<tr><td>" + features[i].caseno + "</td>";
@@ -380,19 +375,19 @@ function getActionDetails(state, type) {
               content += "<td><a href='" + features[i].url + "' target='_blank'>link</a></td></tr>";
             }
         } 
-    // }
-     // else{
-     //   for (i = 0; i < features.length; i++) {
-     //        if (features[i].state == state && features[i].actiontype != "NAL" && features[i].actiontype != "NOUO" && features[i].actiontype != "FO") {
-     //          content += "<tr><td>" + features[i].caseno + "</td>";
-     //          content += "<td>" + features[i].date + "</td>";
-     //          content += "<td>" + features[i].casename + "</td>";
-     //          content += "<td>" + features[i].city + "</td>";
-     //          content += "<td>$" + features[i].amount + "</td>";
-     //          content += "<td><a href='" + features[i].url + "' target='_blank'>link</a></td></tr>";
-     //        }
-     //    } 
-     //  }
+     }
+     else{
+       for (i = 0; i < features.length; i++) {
+            if (features[i].state == state && features[i].actiontype != "NAL" && features[i].actiontype != "NOUO" && features[i].actiontype != "FO") {
+              content += "<tr><td>" + features[i].caseno + "</td>";
+              content += "<td>" + format(features[i].date) + "</td>";
+              content += "<td>" + features[i].casename + "</td>";
+              content += "<td>" + features[i].city + "</td>";
+              content += "<td>$" + features[i].amount + "</td>";
+              content += "<td><a href='" + features[i].url + "' target='_blank'>link</a></td></tr>";
+            }
+        } 
+      }
   }
   else{
       content += "<table id='tbl-actionDetails' class='tablesorter'><thead><tr><th><div class='sort-wrapper'>File &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Date &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Name &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>State &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Amt. &nbsp;<span class='sort'></span></div></th><th>URL</th></tr></thead>";
