@@ -1,12 +1,12 @@
 
 
-var data,dataByState,otherDataByState,nalDataByState,nouoDataByState,foDataByState;
+var data,dataByState;
 var currentType = 'all';
 var actionDetails = {
   state: '',
   statename: ''
 };
-var caseTypeName={"NAL":"NAL", "NOUO":"NOUO", "FO":"FORFEITURE ORDER", "OHTER": "OTHER"};
+var caseTypeName={"NAL":"NAL", "NOUO":"NOUO", "FO":"FORFEITURE ORDER", "OTHER": "OTHER", "M.O.&O.":"M.O.&O.", "CD":"ORDER & CONSENT DECREE", "NOV":"NOV", "ERRATUM":"ERRATUM"};
 var map = L.mapbox.map('map', 'fcc.map-toolde8w')
       .setView([39.5, -98.5], 4);
 
@@ -30,28 +30,40 @@ function ready(error, piratedata,stateCentroid){
   var dateExtent = d3.extent(data,function(d){return d.date});
   d3.select('#title').html("<h1>Summary of <span class='red-title'>Enforcement Actions</span>(" + 
                           format(dateExtent[0]) + "-" + format(dateExtent[1]) + ")</h1>");
-  
-  dataByState = d3.nest()
+
+ dataByState = d3.nest()
       .key(function(d){return d.state.toUpperCase()})
-      .entries(data);
-  nalDataByState = d3.nest()
-      .key(function(d){return d.state.toUpperCase()})
-      .entries(data.filter(function(d){return d.actiontype.toUpperCase()=='NAL'}));
-  nouoDataByState = d3.nest()
-      .key(function(d){return d.state.toUpperCase()})
-      .entries(data.filter(function(d){return d.actiontype.toUpperCase()=='NOUO'}));
-  foDataByState = d3.nest()
-      .key(function(d){return d.state.toUpperCase()})
-      .entries(data.filter(function(d){return d.actiontype.toUpperCase()=='FO'}));
-  otherDataByState = d3.nest()
-      .key(function(d){return d.state.toUpperCase()})
-      .entries(data.filter(function(d){return d.actiontype.toUpperCase()!='NAL' && d.actiontype.toUpperCase()!='NOUO' && d.actiontype.toUpperCase()!='FO' }));
+      //.key(function(d){return d.actiontype})
+      .rollup(function(values){
+         // console.log(values)
+        return {
+            allAmount: d3.sum(values, function(d){return d.amount}),
+            allCount: d3.sum(values, function(d){return 1}),
+            NALAmount: d3.sum(values, function(d){return d.actiontype == "NAL"? d.amount:0}),
+            NALCount: d3.sum(values, function(d){return d.actiontype == "NAL"? 1:0}),
+            NOUOAmount: d3.sum(values, function(d){return d.actiontype == "NOUO"? d.amount:0}),
+            NOUOCount: d3.sum(values, function(d){return d.actiontype == "NOUO"? 1:0}),
+            FOAmount: d3.sum(values, function(d){return d.actiontype == "FO"? d.amount:0}),
+            FOCount: d3.sum(values, function(d){return d.actiontype == "FO"? 1:0}),
+            "M.O.&O.Amount": d3.sum(values, function(d){return d.actiontype == "M.O.&O."? d.amount:0}),
+            "M.O.&O.Count": d3.sum(values, function(d){return d.actiontype == "M.O.&O."? 1:0}),
+            CDAmount: d3.sum(values, function(d){return d.actiontype == "CD"? d.amount:0}),
+            CDCount: d3.sum(values, function(d){return d.actiontype == "CD"? 1:0}),
+            NOVAmount: d3.sum(values, function(d){return d.actiontype == "NOV"? d.amount:0}),
+            NOVCount: d3.sum(values, function(d){return d.actiontype == "NOV"? 1:0}),
+            ERRATUMAmount: d3.sum(values, function(d){return d.actiontype == "ERRATUM"? d.amount:0}),
+            ERRATUMCount: d3.sum(values, function(d){return d.actiontype == "ERRATUM"? 1:0}),
+            OTHERAmount: d3.sum(values, function(d){return d.actiontype != "NAL"&&d.actiontype != "NOUO"&&d.actiontype != "FO" ? d.amount:0}),
+            OTHERCount: d3.sum(values, function(d){return d.actiontype != "NAL"&&d.actiontype != "NOUO"&&d.actiontype != "FO"? 1:0})
+        }; 
+      })
+      .map(data);
   
   centroids = d3.nest()
     .key(function(d){return d.properties.abbrname})
     .map(stateCentroid.features)
 
-  radius.domain(d3.extent(dataByState,function(d){return d.values.length}));
+  radius.domain(d3.extent(d3.entries(dataByState),function(d){return d.value.allCount}));
   drawCircle('all');
 
 }
@@ -59,53 +71,35 @@ function ready(error, piratedata,stateCentroid){
 function drawCircle(type){
   d3.selectAll('path').remove();
   d3.selectAll('.label').remove();
-  var dataset;
-  if (type == 'all'){
-    dataset = dataByState;
-  }
-  else if (type == 'NOUO'){
-    dataset = nouoDataByState;
-   // radius.domain([nouoCountMin,nouoCountMax]);
-  }
-  else if (type == 'NAL'){
-    dataset = nalDataByState;
-    //radius.domain([nalCountMin,nalCountMax]);
-  }
-  else if (type == 'FO'){
-    dataset = foDataByState;
-   // radius.domain([foCountMin,foCountMax]);
-  }
-    else if (type == 'OTHER'){
-    dataset = otherDataByState;
-   // radius.domain([otherCountMin,otherCountMax]);
-  }
-    dataset.forEach(function(d){
-       var lat = centroids[d.key][0].geometry.coordinates[1];
-       var lon = centroids[d.key][0].geometry.coordinates[0];
-       var state = d.key;
-       var circle = new L.circleMarker([lat,lon],{color:'lightSteelBlue',weight:1,fillColor:'red',fillOpacity:0.2});
-      circle.setRadius(radius(d.values.length));
+  d3.entries(dataByState).forEach(function(d){
+     var lat = centroids[d.key][0].geometry.coordinates[1];
+     var lon = centroids[d.key][0].geometry.coordinates[0];
+     var circleSize = d.value[type + "Count"];
+     if (circleSize != 0){
+      var circle = new L.circleMarker([lat,lon],{color:'lightSteelBlue',weight:1,fillColor:'red',fillOpacity:0.2});
+      circle.setRadius(radius(circleSize));
       circle.on('mouseover', function(e){highlight(e,'mouseover', d.key)});
-       circle.on('mouseout', function(e){unhighlight(e)});
-       circle.on('click', function(e){highlight(e,'click',d.key)})
+      circle.on('mouseout', function(e){unhighlight(e)});
+      circle.on('click', function(e){highlight(e,'click',d.key)})
       circle.addTo(map);
       var label = new L.Marker([lat,lon], {
-          icon: new L.DivIcon({
-              className: 'label',
-              iconSize: [radius(d.values.length),radius(d.values.length)],
-              iconAnchor: new L.Point(radius(d.values.length)/3, radius(d.values.length)/2),
-              html: '<div>'+ d.values.length +'</div>'
-            })
+        icon: new L.DivIcon({
+            className: 'label',
+            iconSize: [radius(circleSize), radius(circleSize)],
+            iconAnchor: new L.Point(radius(circleSize)/3, radius(circleSize)/2),
+            html: '<div>'+ circleSize +'</div>'
           })
+        })
       label.addTo(map)
-    })
+     }
+     
+  })
 
 }
 
 function highlight(e,action,state){
   e.target.options.fillOpacity=0.5;
   e.target._updateStyle();
-console.log(action + " " + state)
  $('#tooltips').html('<div class="inner">' + showTableContent(action,state) + '</div>')
  initTblSort();
 }
@@ -117,188 +111,45 @@ function unhighlight(e){
 }
 
 function showTableContent(action,state) {
-
-  var num = dataByState.filter(function(d){return d.key == state})[0].values.length;
-  var type = currentType;
-
   var content = " ";
-  var typeByState = getTypeByState(state);
-  var numPercent = (num * 100) / data.length;
-
   actionDetails.state = state;
   actionDetails.statename = centroids[state][0].properties.name;
   
-  if (type == "all") {
+  if (currentType == "all") {
+    var num = dataByState[state]["allCount"];
+    var numPercent = (num * 100) / data.length;
     content += "<h2>Pirate action details in " + actionDetails.statename + "</h2>";
     content += "<h4>Total pirate action cases: <span class='red'>" + num + "</span></h4>";
     content += "<h4>Percent of total cases: <span class='red'>" + parseFloat(numPercent).toFixed(1) + "%</span></h4>";
     content += "<table id='tbl-summary'><tr><th>Type</th><th>Cases</th><th>Amount</th></tr>";
 
-    if (typeByState[0] == 0) {
-      content += "<tr><td>NAL</td>";
-    } else {
-      content += "<tr><td><a id='NAL' class='lnk-actionDetails' href='#void'>NAL</a></td>";
-    }
-
-    content += "<td>" + typeByState[0] + "</td>";
-    content += "<td>$" + typeByState[1] + "</td></tr>";
-
-    if (typeByState[2] == 0) {
-      content += "<tr><td>NOUO</td>";
-    } else {
-      content += "<tr><td><a id='NOUO' class='lnk-actionDetails' href='#void'>NOUO</a></td>";
-    }
-
-    /*content +="<tr><td>NOUO</td>";*/
-    content += "<td>" + typeByState[2] + "</td>";
-    content += "<td>$" + typeByState[3] + "</td></tr>";
-
-    if (typeByState[4] == 0) {
-      content += "<tr><td>FORFEITURE ORDER</td>";
-    } else {
-      content += "<tr><td><a id='FO' class='lnk-actionDetails' href='#void'>FORFEITURE ORDER</a></td>";
-    }
-
-    /*content +="<tr><td>FORFEITURE ORDER</td>";*/
-    content += "<td>" + typeByState[4] + "</td>";
-    content += "<td>$" + typeByState[5] + "</td></tr>"
-
-    if (typeByState[6] == 0) {
-      content += "<tr><td>M.O.&amp;O.</td>";
-    } else {
-      content += "<tr><td><a id='M.O.&O.' class='lnk-actionDetails' href='#void'>M.O.&O.</a></td>";
-    }
-
-    /*content +="<tr><td>M.O.&amp;O.</td>";*/
-    content += "<td>" + typeByState[6] + "</td>";
-    content += "<td>$" + typeByState[7] + "</td></tr>"
-
-
-    if (typeByState[8] == 0) {
-      content += "<tr><td>ORDER & CONSENT DECREE</td>";
-    } else {
-      content += "<tr><td><a id='CD' class='lnk-actionDetails' href='#void'>ORDER & CONSENT DECREE</a></td>";
-    }
-
-    /*content +="<tr><td>ORDER & CONSENT DECREE</td>";*/
-    content += "<td>" + typeByState[8] + "</td>";
-    content += "<td>$" + typeByState[9] + "</td></tr>"
-    
-    if (typeByState[10] == 0) {
-        content += "<tr><td>NOV</td>";
-      } else {
-        content += "<tr><td><a id='NOV' class='lnk-actionDetails' href='#void'>NOV</a></td>";
-      }
-
-      /*content +="<tr><td>ORDER & CONSENT DECREE</td>";*/
-      content += "<td>" + typeByState[10] + "</td>";
-      content += "<td>$" + typeByState[11] + "</td></tr>"
-    
-      if (typeByState[12] == 0) {
-          content += "<tr><td>ERRATUM</td>";
+    d3.keys(caseTypeName).filter(function(c){return c!="OTHER"}).forEach(function(d){
+        if (dataByState[state][d + "Count"] == 0 ){
+          content += "<tr><td>" + caseTypeName[d] + "</td>";
         } else {
-          content += "<tr><td><a id='ERRATUM' class='lnk-actionDetails' href='#void'>ERRATUM</a></td>";
+          content += "<tr><td><a id=" + d + " class='lnk-actionDetails' href='#void'>" + caseTypeName[d] + "</a></td>";
         }
 
-        /*content +="<tr><td>ORDER & CONSENT DECREE</td>";*/
-        content += "<td>" + typeByState[12] + "</td>";
-        content += "<td>$" + typeByState[13] + "</td></tr>"
-    
-    
+        content += "<td>" + dataByState[state][d + "Count"] + "</td>";
+        content += "<td>$" + dataByState[state][d + "Amount"] + "</td></tr>";
+
+    });    
     content += "</table>";
-  } else if (type == "NAL") {
-    content += "<h2>Pirate NAL action details in " + actionDetails.statename + "</h2>";
-    content += "<h4>Total pirate NAL action cases: <span class='red'>" + typeByState[0] + "</span></h4>";
-    content += "<h4>Total amount of NAL: <span class='red'>$" + typeByState[1] + "</span></h4>"
-    content += "<em>Click for a breakdown of all NAL actions.</em>";
-    if (action == "click") {
-      content += getActionDetails(state, type);
-    }
-  } else if (type == "NOUO") {
-    content += "<h2>Pirate NOUO action details in " + actionDetails.statename + ":</h2>";
-    content += "<h4>Total pirate NOUO action cases: <span class='red'>" + typeByState[2] + "</span></h4>";
-    content += "<em>Click for a breakdown of all NOUO actions.</em>";
-    if (action == "click") {
-      content += getActionDetails(state, type);
-    }
-  } else if (type == "FO") {
-    content += "<h2>Pirate Forfeiture Order action details in " + actionDetails.statename + ":</h2>";
-    content += "<h4>Total pirate Forfeiture Order action cases: <span class='red'>" + typeByState[4] + "</span></h4>";
-    content += "<h4>Total amount of Forfeiture Order: <span class='red'>$" + typeByState[5] + "</span></h4>"
-    content += "<em>Click for a breakdown of all Forfeiture Order actions.</em>";
-    if (action == "click") {
-      content += getActionDetails(state, type);
-    }
-  } else if (type == "OTHER") {
-    var totalNum = typeByState[6] + typeByState[8] + typeByState[10] + typeByState[12];
-    var totalAmount = typeByState[7] + typeByState[9] + typeByState[11] + typeByState[13];
-    content += "<h2>Pirate Other type action details in " + actionDetails.statename + ":</h2>";
-    content += "<h4>Total pirate Other type action cases: <span class='red'>" + totalNum + "</span></h4>";
-    content += "<h4>Total amount of Other type: <span class='red'>$" + totalAmount + "</span></h4>"
+   } 
+  else{
+    content += "<h2>Pirate " + caseTypeName[currentType] + " type action details in " + actionDetails.statename + ":</h2>";
+    content += "<h4>Total pirate " + caseTypeName[currentType] + " type action cases: <span class='red'>" + dataByState[state][currentType + "Count"] + "</span></h4>";
+    content += "<h4>Total amount of " + caseTypeName[currentType] + " type: <span class='red'>$" + dataByState[state][currentType + "Amount"] + "</span></h4>"
     content += "<em>Click for a breakdown of all Other type actions.</em>";
     if (action == "click") {
-      content += getActionDetails(state, type);
+      content += getActionDetails(state, currentType);
     }
   }
 
   return content;
 }
 
-function getTypeByState(state) {
-  var typeByState = [];
-  var nalNum = 0,
-    nalAmount = 0,
-    nouoNum = 0,
-    nouoAmount = 0,
-    forfNum = 0;
-  forfAmount = 0, mooNum = 0, mooAmount = 0, ocdNum = 0, ocdAmount = 0,novNum=0,novAmount=0,erratumNum=0,erratumAmount=0;
-  var features = data;
-  for (i = 0; i < features.length; i++) {
-    if (features[i].state == state) {
-      if (features[i].actiontype == "NAL") {
-        nalNum++;
-        nalAmount += features[i].amount;
-      } else if (features[i].actiontype == "NOUO") {
-        nouoNum++;
-        nouoAmount += features[i].amount;
-      } else if (features[i].actiontype == "FO") {
-        forfNum++;
-        forfAmount += features[i].amount;
-      } else if (features[i].actiontype == "M.O.&O.") {
-        mooNum++;
-        mooAmount += features[i].amount;
-      } else if (features[i].actiontype == "CD") {
-        ocdNum++;
-        ocdAmount += features[i].amount;
-      }
-        else if (features[i].actiontype == "NOV") {
-        novNum++;
-        novAmount += features[i].amount;
-      }
-        else if (features[i].actiontype == "ERRATUM") {
-        erratumNum++;
-        erratumAmount += features[i].amount;
-      }
 
-    }
-  }
-  typeByState.push(nalNum);
-  typeByState.push(nalAmount);
-  typeByState.push(nouoNum);
-  typeByState.push(nouoAmount);
-  typeByState.push(forfNum);
-  typeByState.push(forfAmount);
-  typeByState.push(mooNum);
-  typeByState.push(mooAmount);
-  typeByState.push(ocdNum);
-  typeByState.push(ocdAmount);
-  typeByState.push(novNum);
-  typeByState.push(novAmount);
-  typeByState.push(erratumNum);
-  typeByState.push(erratumAmount);
-  return typeByState;
-
-}
 function initTblSort() {
   if (jQuery('#tbl-actionDetails') && jQuery('#tbl-actionDetails tbody tr').length > 1) {
     jQuery('#tbl-actionDetails').dataTable({
