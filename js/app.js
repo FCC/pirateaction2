@@ -197,7 +197,7 @@ function showSubCatTableContent(type){
            }
       }
   }
-  content += "<h2>Pirate " + caseTypeName[type] +" action details in United State</h2>";
+  content += "<h2>Pirate " + caseTypeName[type] +" action details in United States</h2>";
   content += "<h4>Total pirate " + caseTypeName[type] + " action cases: <span class='red'>" + num + "</span></h4>";
   content += "<h4>Total amount of " + caseTypeName[type] + ": <span class='red'>$" + amount + "</span></h4>";
 
