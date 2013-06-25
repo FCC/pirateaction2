@@ -12,7 +12,7 @@
 
 ### CSV file specifications:
 
-#### CSV file needs to have the following fields in this order:
+#### CSV file needs to have the following fields, the field names are important but the order of the fields is not:
 
 + date: in mm/dd/yyyy format. e.g. 8/7/2010 OR 08/07/2010
 + casename: a string. e.g. case name xxxxxx
@@ -22,7 +22,7 @@
 + city: a string. e.g. Rockville
 + state: a string. e.g. MD
 + caseno: a string. e.g. EB-09-MA-0124
-+ actiontype: a string, with all capital letters. e.g. NOUO
++ actiontype: a string, with all capital letters. Currently the application support these action types: "NAL", "NOUO", "FO", "OTHER", "M.O.&O.", "CD", "NOV", "ERRATUM"
 + amount: a number. use 0 when not applicable. e.g. 2000 OR 0
 
 
