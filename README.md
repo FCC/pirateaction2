@@ -18,11 +18,11 @@
 + casename: a string. e.g. case name xxxxxx
 + url: complete url for reference on FCC web site. e.g. http://www.fcc.gov/eb/FieldNotices/2003/DOC-292678A1.html 
 + lat: latitude, in decimal degree. e.g. 45.36
-+ lon: longitude, in decimal degree. e.g. -102.55
++ long: longitude, in decimal degree. e.g. -102.55
 + city: a string. e.g. Rockville
 + state: a string. e.g. MD
 + caseno: a string. e.g. EB-09-MA-0124
-+ actiontype: a string, with all capital letters. Currently the application support these action types: "NAL", "NOUO", "FO", "OTHER", "M.O.&O.", "CD", "NOV", "ERRATUM"
++ typeaction: a string, with all capital letters. Currently the application support these action types: "NAL", "NOUO", "FO", "OTHER", "M.O.&O.", "CD", "NOV", "ERRATUM"
 + amount: a number. use 0 when not applicable. e.g. 2000 OR 0
 
 

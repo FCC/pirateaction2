@@ -25,7 +25,7 @@ queue()
 //d3.tsv("data/school_stat.tsv", function(error, school) {
 function ready(error, piratedata,stateCentroid){
   data = piratedata;
-  data.forEach(function(d){d.date = format.parse(d.date);d.amount == null? d.amount =0 : d.amount = +d.amount});
+  data.forEach(function(d){d.state = d.state.toUpperCase();d.date = format.parse(d.date);d.amount==null || d.amount.length==0? d.amount =0 : d.amount = +(d.amount.replace(",",""))});
 
   var dateExtent = d3.extent(data,function(d){return d.date});
   d3.select('#title').html("<h1>Summary of <span class='red-title'>Enforcement Actions</span>(" + 
@@ -33,28 +33,28 @@ function ready(error, piratedata,stateCentroid){
 
  dataByState = d3.nest()
       .key(function(d){return d.state.toUpperCase()})
-      //.key(function(d){return d.actiontype})
+      //.key(function(d){return d.typeaction})
       .rollup(function(values){
          // console.log(values)
         return {
             allAmount: d3.sum(values, function(d){return d.amount}),
             allCount: d3.sum(values, function(d){return 1}),
-            NALAmount: d3.sum(values, function(d){return d.actiontype == "NAL"? d.amount:0}),
-            NALCount: d3.sum(values, function(d){return d.actiontype == "NAL"? 1:0}),
-            NOUOAmount: d3.sum(values, function(d){return d.actiontype == "NOUO"? d.amount:0}),
-            NOUOCount: d3.sum(values, function(d){return d.actiontype == "NOUO"? 1:0}),
-            FOAmount: d3.sum(values, function(d){return d.actiontype == "FO"? d.amount:0}),
-            FOCount: d3.sum(values, function(d){return d.actiontype == "FO"? 1:0}),
-            "M.O.&O.Amount": d3.sum(values, function(d){return d.actiontype == "M.O.&O."? d.amount:0}),
-            "M.O.&O.Count": d3.sum(values, function(d){return d.actiontype == "M.O.&O."? 1:0}),
-            CDAmount: d3.sum(values, function(d){return d.actiontype == "CD"? d.amount:0}),
-            CDCount: d3.sum(values, function(d){return d.actiontype == "CD"? 1:0}),
-            NOVAmount: d3.sum(values, function(d){return d.actiontype == "NOV"? d.amount:0}),
-            NOVCount: d3.sum(values, function(d){return d.actiontype == "NOV"? 1:0}),
-            ERRATUMAmount: d3.sum(values, function(d){return d.actiontype == "ERRATUM"? d.amount:0}),
-            ERRATUMCount: d3.sum(values, function(d){return d.actiontype == "ERRATUM"? 1:0}),
-            OTHERAmount: d3.sum(values, function(d){return d.actiontype != "NAL"&&d.actiontype != "NOUO"&&d.actiontype != "FO" ? d.amount:0}),
-            OTHERCount: d3.sum(values, function(d){return d.actiontype != "NAL"&&d.actiontype != "NOUO"&&d.actiontype != "FO"? 1:0})
+            NALAmount: d3.sum(values, function(d){return d.typeaction == "NAL"? d.amount:0}),
+            NALCount: d3.sum(values, function(d){return d.typeaction == "NAL"? 1:0}),
+            NOUOAmount: d3.sum(values, function(d){return d.typeaction == "NOUO"? d.amount:0}),
+            NOUOCount: d3.sum(values, function(d){return d.typeaction == "NOUO"? 1:0}),
+            FOAmount: d3.sum(values, function(d){return d.typeaction == "FO"? d.amount:0}),
+            FOCount: d3.sum(values, function(d){return d.typeaction == "FO"? 1:0}),
+            "M.O.&O.Amount": d3.sum(values, function(d){return d.typeaction == "M.O.&O."? d.amount:0}),
+            "M.O.&O.Count": d3.sum(values, function(d){return d.typeaction == "M.O.&O."? 1:0}),
+            CDAmount: d3.sum(values, function(d){return d.typeaction == "CD"? d.amount:0}),
+            CDCount: d3.sum(values, function(d){return d.typeaction == "CD"? 1:0}),
+            NOVAmount: d3.sum(values, function(d){return d.typeaction == "NOV"? d.amount:0}),
+            NOVCount: d3.sum(values, function(d){return d.typeaction == "NOV"? 1:0}),
+            ERRATUMAmount: d3.sum(values, function(d){return d.typeaction == "ERRATUM"? d.amount:0}),
+            ERRATUMCount: d3.sum(values, function(d){return d.typeaction == "ERRATUM"? 1:0}),
+            OTHERAmount: d3.sum(values, function(d){return d.typeaction != "NAL"&&d.typeaction != "NOUO"&&d.typeaction != "FO" ? d.amount:0}),
+            OTHERCount: d3.sum(values, function(d){return d.typeaction != "NAL"&&d.typeaction != "NOUO"&&d.typeaction != "FO"? 1:0})
         }; 
       })
       .map(data);
@@ -65,34 +65,35 @@ function ready(error, piratedata,stateCentroid){
 
   radius.domain(d3.extent(d3.entries(dataByState),function(d){return d.value.allCount}));
   drawCircle('all');
-
 }
 
 function drawCircle(type){
   d3.selectAll('path').remove();
   d3.selectAll('.label').remove();
   d3.entries(dataByState).forEach(function(d){
-     var lat = centroids[d.key][0].geometry.coordinates[1];
-     var lon = centroids[d.key][0].geometry.coordinates[0];
-     var circleSize = d.value[type + "Count"];
-     if (circleSize != 0){
-      var circle = new L.circleMarker([lat,lon],{color:'lightSteelBlue',weight:1,fillColor:'red',fillOpacity:0.2});
-      circle.setRadius(radius(circleSize));
-      circle.on('mouseover', function(e){highlight(e,'mouseover', d.key)});
-      circle.on('mouseout', function(e){unhighlight(e)});
-      circle.on('click', function(e){highlight(e,'click',d.key)})
-      circle.addTo(map);
-      var label = new L.Marker([lat,lon], {
-        icon: new L.DivIcon({
-            className: 'label',
-            iconSize: [radius(circleSize), radius(circleSize)],
-            iconAnchor: new L.Point(radius(circleSize)/3, radius(circleSize)/2),
-            html: '<div>'+ circleSize +'</div>'
+    if (typeof centroids[d.key] != "undefined"){
+      //if (d.key == "HARTFORD"){console.log(d)};
+       var lat = centroids[d.key][0].geometry.coordinates[1];
+       var lon = centroids[d.key][0].geometry.coordinates[0];
+       var circleSize = d.value[type + "Count"];
+       if (circleSize != 0){
+        var circle = new L.circleMarker([lat,lon],{color:'lightSteelBlue',weight:1,fillColor:'red',fillOpacity:0.2});
+        circle.setRadius(radius(circleSize));
+        circle.on('mouseover', function(e){highlight(e,'mouseover', d.key)});
+        circle.on('mouseout', function(e){unhighlight(e)});
+        circle.on('click', function(e){highlight(e,'click',d.key)})
+        circle.addTo(map);
+        var label = new L.Marker([lat,lon], {
+          icon: new L.DivIcon({
+              className: 'label',
+              iconSize: [radius(circleSize), radius(circleSize)],
+              iconAnchor: new L.Point(radius(circleSize)/3, radius(circleSize)/2),
+              html: '<div>'+ circleSize +'</div>'
+            })
           })
-        })
-      label.addTo(map)
+        label.addTo(map)
+       }
      }
-     
   })
 
 }
@@ -182,16 +183,16 @@ function showSubCatTableContent(type){
   var features = data;
   for (i = 0; i < features.length; i++) {
       if (type == "OTHER"){
-        if (features[i].actiontype == "M.O.&O." || 
-                features[i].actiontype == "CD" ||
-                features[i].actiontype == "NOV" ||
-                features[i].actiontype == "ERRATUM") {
+        if (features[i].typeaction == "M.O.&O." || 
+                features[i].typeaction == "CD" ||
+                features[i].typeaction == "NOV" ||
+                features[i].typeaction == "ERRATUM") {
             num++;
             amount += features[i].amount;
         }
       }
       else{
-           if (features[i].actiontype == type) {
+           if (features[i].typeaction == type) {
              num++;
              amount += features[i].amount;
            }
@@ -205,7 +206,7 @@ function showSubCatTableContent(type){
 }
 
 function getActionDetails(state, type) {
-  console.log(state + " " + type)
+ // console.log(state + " " + type)
   var content = "";
   var features = data;
   if (type == "all"){
@@ -217,7 +218,7 @@ function getActionDetails(state, type) {
     content += "<table id='tbl-actionDetails' class='tablesorter'><thead><tr><th><div class='sort-wrapper'>File &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Date &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Name &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>City &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Amt. &nbsp;<span class='sort'></span></div></th><th>URL</th></tr></thead>";
      if (type != "OTHER"){
        for (i = 0; i < features.length; i++) {
-            if (features[i].state == state && features[i].actiontype == type) {
+            if (features[i].state == state && features[i].typeaction == type) {
               content += "<tr><td>" + features[i].caseno + "</td>";
               content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
@@ -229,7 +230,7 @@ function getActionDetails(state, type) {
      }
      else{
        for (i = 0; i < features.length; i++) {
-            if (features[i].state == state && features[i].actiontype != "NAL" && features[i].actiontype != "NOUO" && features[i].actiontype != "FO") {
+            if (features[i].state == state && features[i].typeaction != "NAL" && features[i].typeaction != "NOUO" && features[i].typeaction != "FO") {
               content += "<tr><td>" + features[i].caseno + "</td>";
               content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
@@ -244,7 +245,7 @@ function getActionDetails(state, type) {
       content += "<table id='tbl-actionDetails' class='tablesorter'><thead><tr><th><div class='sort-wrapper'>File &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Date &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Name &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>State &nbsp;<span class='sort'></span></div></th><th><div class='sort-wrapper'>Amt. &nbsp;<span class='sort'></span></div></th><th>URL</th></tr></thead>";
      if (type != "OTHER"){
        for (i = 0; i < features.length; i++) {
-            if (features[i].actiontype == type) {
+            if (features[i].typeaction == type) {
               content += "<tr><td>" + features[i].caseno + "</td>";
               content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
@@ -256,7 +257,7 @@ function getActionDetails(state, type) {
      }
      else{
        for (i = 0; i < features.length; i++) {
-            if (features[i].actiontype != "NAL" && features[i].actiontype != "NOUO" && features[i].actiontype != "FO") {
+            if (features[i].typeaction != "NAL" && features[i].typeaction != "NOUO" && features[i].typeaction != "FO") {
               content += "<tr><td>" + features[i].caseno + "</td>";
               content += "<td>" + format(features[i].date) + "</td>";
               content += "<td>" + features[i].casename + "</td>";
