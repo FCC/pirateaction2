@@ -1,4 +1,19 @@
 "date","casename","city","state","lat","long","caseno","typeaction","amount","url"
+01/30/2014,Surf Pacific Corporation,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-14-00013300,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325465A1.html
+01/30/2014,Clive Cole,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-14-00013300,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325462A1.html
+01/23/2014,WFHA Creston Avenue LP,Long Island City,NY,40.7490,-73.9387,EB-FIELDNER-14-00013224,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325288A1.html
+01/17/2014,Leonid Lytvynchuk,Everett,WA,47.9859,-122.2029,EB-FIELDWR-14-00013037,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325287A1.html
+01/17/2014,288-295 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-14-00013146,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325275A1.html
+01/15/2014,Juan Ortiz,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-14-00013107,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325273A1.html
+01/15/2014,Grand Concourse Corporation LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-14-00013107,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325272A1.html
+01/15/2014,Colony House,New Brunswick,NJ,40.4887,-74.4487,EB-FIELDNER-14-00013103,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325269A1.html
+01/13/2014,Laisa Polanco,New York,NY,40.7486,-73.9933,EB-FIELDNER-14-00013061,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325274A1.html
+12/19/2013,Kevin W. Bondy,Encino,CA,34.1667,-118.5163,EB-09-LA-0026,M.O.&O.,24000,http://transition.fcc.gov/eb/Orders/2013/DA-13-2411A1.html
+11/26/2013,Vicot Chery,Spring Valley,NY,41.1181,-74.0464,EB-09-NY-0318,FO,10000,http://transition.fcc.gov/eb/Orders/2013/DA-13-2260A1.html
+11/21/2013,Mel Garcia,La Crescenta,CA,34.2291,-118.2468,EB-FIELDWR-13-00010322,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324354A1.html
+11/21/2013,Centro Cristiano Puerta de Bendicion,Pacoima,CA,34.2574,-118.4198,EB-FIELDWR-13-00010322,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324353A1.html
+11/21/2013,Rosalia and Ricardo Rodriguez,Newhall,CA,34.3843,-118.5137,EB-FIELDWR-13-00010322,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324352A1.html
+11/21/2013,Berthe Boyer,Avon,MA,42.1260,-71.0450,EB-FIELDNER-13-00012282,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324350A1.html
 11/20/2013,Romayne Davis,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-12-00002931,FO,10000,http://transition.fcc.gov/eb/Orders/2013/DA-13-2215A1.html
 10/31/2013,Stephen Thomas Webb,Taft,CA,35.1476,-119.4559,EB-FIELDWR-13-00011846,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324070A1.html
 10/31/2013,Stephen Thomas Webb,Taft,CA,35.1476,-119.4559,EB-FIELDWR-13-00011845,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324069A1.html
@@ -9,7 +24,6 @@
 09/30/2013,LA Fitness,Federal Way,WA,47.3104,-122.2663,EB-FIELDWR-13-00011481,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323923A1.html
 09/30/2013,LA Fitness,Federal Way,WA,47.3104,-122.2663,EB-FIELDWR-13-00011411,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323922A1.html
 09/26/2013,New Horizon Christian Center,Tacoma,WA,47.2476,-122.4389,EB-FIELDWR-13-00011108,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323915A1.html
-09/26/2013,Amelia Zepeda,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-13-00011499,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323913A1.html
 09/26/2013,Amelia Zepeda,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-13-00011499,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323913A1.html
 09/26/2013,Alpha Management LLC,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-13-00011494,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323912A1.html
 09/26/2013,Jose Saenz Juarez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-13-00011494,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323911A1.html
@@ -23,10 +37,10 @@
 09/18/2013,Quality Realty Corp,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-13-00011270,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323895A1.html
 09/18/2013,Christopher Blenman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010185,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323899A1.html
 09/17/2013,Luis Tavera,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-13-00011266,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323894A1.html
-09/12/2013,Scott and Dianna Lamb DBA Lemolo Lake Resort,Idleyld Park,OR,43.3054,-122.7662,,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323879A1.html
-09/12/2013,Roseburg Resources Co.,Roseburg,OR,43.2200,-123.3660,,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323878A1.html
 09/12/2013,Sergio Gonzalez-Lopez,Las Vegas,NV,36.1883,-115.1425,EB-FIELDWR-13-00011093,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324067A1.html
 09/12/2013,Iglesia Shalom Church,Las Vegas,NV,36.1883,-115.1425,EB-FIELDWR-13-00011093,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-324066A1.html
+09/12/2013,Scott and Dianna Lamb DBA Lemolo Lake Resort,Idleyld Park,OR,43.3054,-122.7662,EB-FIELDWR-13-00010999,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323879A1.html
+09/12/2013,Roseburg Resources Co.,Roseburg,OR,43.2200,-123.3660,EB-FIELDWR-13-00010999,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323878A1.html
 09/04/2013,Wellington Espinal,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-13-00010964,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323204A1.html
 08/23/2013,Saint Marks Housing Associates L.P.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00008795,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323002A1.html
 08/23/2013,10 Stratford Associates,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00008787,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-323003A1.html
@@ -43,12 +57,13 @@
 08/01/2013,Angel Ayora,Queens,NY,40.7278,-73.7514,EB-FIELDNER-13-00010276,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322707A1.html
 07/31/2013,Danron Realty Corporation,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-13-00010239,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322706A1.html
 07/31/2013,Aqua 680 E235 LLC,New York,NY,40.7486,-73.9933,EB-FIELDNER-13-00010201,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322704A1.html
-07/31/2013,Dorothy Woods Lloyd I. Nolan,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-13-000010192,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322705A1.html
+07/31/2013,Dorothy Woods Lloyd I. Nolan,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-13-00010192,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322705A1.html
 07/30/2013,Lincoln & Valtrice Saint Bernard,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010191,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322714A1.html
 07/30/2013,Laisa Polanco,New York,NY,40.7486,-73.9933,EB-FIELDNER-13-00010190,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322713A1.html
 07/30/2013,Chiel Kurz,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010189,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322712A1.html
 07/30/2013,Nelson Sackoor,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010188,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322703A1.html
 07/30/2013,Hurby L Gibbs,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010185,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322702A1.html
+07/25/2013,Black Spruce Management,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010106,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325268A1.html
 07/25/2013,Black Spruce Management,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010099,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322657A1.html
 07/24/2013,Jacqueline Kelly et al.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010040,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322777A1.html
 07/24/2013,Parkbush Realties LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010033,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322776A1.html
@@ -59,12 +74,11 @@
 07/23/2013,Benedict Realty,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-13-00009836,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322656A1.html
 07/23/2013,Hector Bravo,Queens,NY,40.7278,-73.7514,EB-FIELDNER-13-00009836,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322655A1.html
 07/22/2013,Christopher Hallman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010216,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322710A1.html
-07/22/2013,Christopher Hallman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010216,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322660A1.html
 07/22/2013,Herbert Walford,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010215,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322708A1.html
-07/22/2013,Herbert Walford,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010215,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322658A1.html
 07/22/2013,Kendall Stewart,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010213,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322709A1.html
-07/22/2013,Kendall Stewart,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00010213,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322659A1.html
 07/22/2013,Rochpark Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009984,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322653A1.html
+07/22/2013,Rev. Dr. Sauveur Metayer,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009982,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325266A1.html
+07/22/2013,The Triumphant Church of God INC.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009982,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-325265A1.html
 07/22/2013,Rev. Dr. Sauveur Metayer,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009981,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322652A1.html
 07/22/2013,The Triumphant Church of God INC.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009981,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322651A1.html
 07/22/2013,Steve Tiamfook,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009980,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-322650A1.html
@@ -78,6 +92,7 @@
 06/27/2013,Jim Becker,Hastings,NE,40.5898,-98.3918,EB-FIELDSCR-13-00009335,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321909A1.html
 06/27/2013,Philadelphia - The Church of Universal Brotherhood,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009186,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321908A1.html
 06/24/2013,1063 EP LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009370,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321907A1.html
+06/21/2013,611 East 76 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-13-00009283,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321768A1.html
 06/10/2013,Efrain Lanchi,Queens,NY,40.7278,-73.7514,EB-FIELDNER-13-00009108,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321667A1.html
 06/10/2013,Angel Ayora,Queens,NY,40.7278,-73.7514,EB-FIELDNER-13-00009107,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321666A1.html
 06/04/2013,Edwin & Teresita Ruiz,Oswego,IL,41.6852,-88.3400,EB-FIELDNER-13-00008449,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-321497A1.html
@@ -114,9 +129,9 @@
 03/13/2013,Legacy Asset Management LLC,Tacoma,WA,47.2476,-122.4389,EB-FIELDWR-13-00007119,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319575A1.html
 03/13/2013,Ministerios Fuente de Vida,Tacoma,WA,47.2476,-122.4389,EB-FIELDWR-13-00007119,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319573A1.html
 03/13/2013,Peter Kozodoy,Mountlake Terrace,WA,47.7940,-122.3048,EB-FIELDWR-13-00007118,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319576A1.html
+03/13/2013,Vicky Sue Mora,Phoenix,AZ,33.4510,-112.0693,EB-FIELDWR-13-00007042,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319570A1.html
+03/13/2013,Teal Pointe Apartments,Vancouver,WA,45.6400,-122.6805,EB-FIELDWR-13-00006961,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319569A1.html
 03/13/2013,Gerald Richard Gaule,Vancouver,WA,45.6400,-122.6805,EB-FIELDWR-13-00006961,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319568A1.html
-03/13/2013,Vicky Sue Mora,Phoenix,AZ,33.4510,-112.0693,EB-FIELDWR-12-00007042,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319570A1.html
-03/13/2013,Teal Pointe Apartments,Vancouver,WA,45.6400,-122.6805,EB-FIELDWR-12-00006961,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319569A1.html
 03/08/2013,Michael Gregory,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-12-00001175,FO,750,http://transition.fcc.gov/eb/Orders/2013/DA-13-357A1.html
 03/05/2013,Ian  Castrogiovanni,Clarks Summit,PA,41.4891,-75.7025,EB-FIELDNER-13-00006941,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319380A1.html
 02/28/2013,Pierre Nixon Jean,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-12-00002174,FO,15000,http://transition.fcc.gov/eb/Orders/2013/DA-13-288A1.html
@@ -126,7 +141,7 @@
 02/25/2013,Bernard Veargis,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-12-00002077,NAL,15000,http://transition.fcc.gov/eb/Orders/2013/DA-13-278A1.html
 02/22/2013,Recardo Millwood,Bronx,NY,40.8217,-73.9216,EB-10-NY-0486,FO,4000,http://transition.fcc.gov/eb/Orders/2013/DA-13-263A1.html
 02/22/2013,Bernabe Moreno,Passaic,NJ,40.8602,-74.1272,EB-10-NY-0185,FO,1000,http://transition.fcc.gov/eb/Orders/2013/DA-13-262A1.html
-02/21/2013,LLMJ LLC,Phoenix,AZ,33.4510,-112.0693,EB-FIELDWR-12-00006636,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319090A1.html
+02/21/2013,LLMJ LLC,Phoenix,AZ,33.4510,-112.0693,EB-FIELDWR-13-00006636,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319090A1.html
 02/21/2013,Gary M. Feldman,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-12-00002250,NAL,25000,http://transition.fcc.gov/eb/Orders/2013/DA-13-244A1.html
 02/21/2013,Parkash 2625 LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-13-00006848,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-319089A1.html
 02/14/2013,Applus+ Technologies Inc.,Redmond,WA,47.6734,-122.1215,EB-FIELDWR-13-00006377,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-318985A1.html
@@ -153,20 +168,20 @@
 11/05/2012,Michael D. Roscetti,Auburn,WA,47.3104,-122.2663,EB-FIELDWR-12-00004901,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317378A1.html
 11/05/2012,Applus+ Technologies Inc.,Vancouver,WA,45.6400,-122.6805,EB-FIELDWR-12-00004719,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317377A1.html
 11/01/2012,Fellowshipworld Inc.,Buffalo,PA,39.9235,-78.6906,EB-FIELDNER-12-00004948,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317376A1.html
-10/26/2012,K. Jay (Golden Heart),Orange,NJ,40.7687,-74.2352,EB-FIELNER-12-00005023,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317476A1.html
-10/26/2012,Maira Payero,Paterson,NJ,40.9145,-74.1676,EB-FIELNER-12-00005022,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317475A1.html
-10/24/2012,Julio Nunez,Paterson,NJ,40.9145,-74.1676,EB-FIELNER-12-00004965,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317474A1.html
-10/24/2012,755 Rogers LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELNER-12-00004913,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317469A1.html
-10/23/2012,2902 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELNER-12-00004916,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317471A1.html
-10/23/2012,Philmil Realty Corp,Brooklyn,NY,40.6944,-73.9915,EB-FIELNER-12-00004915,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317470A1.html
+10/26/2012,K. Jay (Golden Heart),Orange,NJ,40.7687,-74.2352,EB-FIELDNER-12-00005023,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317476A1.html
+10/26/2012,Maira Payero,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-12-00005022,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317475A1.html
+10/24/2012,Julio Nunez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-12-00004965,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317474A1.html
+10/24/2012,755 Rogers LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-12-00004913,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317469A1.html
+10/23/2012,2902 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-12-00004916,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317471A1.html
+10/23/2012,Philmil Realty Corp,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-12-00004915,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-317470A1.html
 10/19/2012,Thomas Costa,Iowa City,IA,41.6504,-91.5195,EB-FIELDSCR-12-00004683,NAL,10000,http://transition.fcc.gov/eb/Orders/2012/DA-12-1686A1.html
 10/02/2012,Andrea McAnuff,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-12-00004229,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316690A1.html
 09/28/2012,Neal Davis,Fort Lauderdale,FL,26.1214,-80.1305,EB-11-MA-0009,M.O.&O.,,http://transition.fcc.gov/eb/Orders/2012/DA-12-1534A1.html
-09/26/2012,Lisa Abarca,Passaic,NJ,40.8602,-74.1272,EB-FIELNER-12-00004370,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316651A1.html
-09/26/2012,Ivan Angeles,Passaic,NJ,40.8602,-74.1272,EB-FIELNER-12-00004369,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316650A1.html
-09/26/2012,Arendida Sanchez,Passaic,NJ,40.8602,-74.1272,EB-FIELNER-12-00004369,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316649A1.html
-09/26/2012,Bernabe Moreno,Passaic,NJ,40.8602,-74.1272,EB-FIELNER-12-00004366,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316648A1.html
-09/26/2012,Amauri Gutierrez,Passaic,NJ,40.8602,-74.1272,EB-FIELNER-12-00004366,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316647A1.html
+09/26/2012,Lisa Abarca,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-12-00004370,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316651A1.html
+09/26/2012,Ivan Angeles,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-12-00004369,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316650A1.html
+09/26/2012,Arendida Sanchez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-12-00004369,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316649A1.html
+09/26/2012,Bernabe Moreno,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-12-00004366,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316648A1.html
+09/26/2012,Amauri Gutierrez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-12-00004366,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316647A1.html
 09/20/2012,Matthew P. Staszak,Phoenix,AZ,33.4510,-112.0693,EB-FIELDWR-12-00004145,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316424A1.html
 09/17/2012,Steven R. Anderson,Madison,WI,43.1028,-89.5094,EB-FIELDNER-12-00004181,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-316422A1.html
 09/14/2012,Jeffrey Darius,Miami,FL,25.8334,-80.2821,EB-11-MA-0188,FO,15000,http://transition.fcc.gov/eb/Orders/2012/DA-12-1488A1.html
@@ -332,7 +347,6 @@
 09/07/2011,Robert F. Zukowski,Albuquerque,NM,35.0937,-106.6426,EB-11-SD-0151,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309800A1.html
 09/01/2011,Emmanuel Noel,Providence,RI,41.8181,-71.4088,EB-11-BS-0022,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309453A1.html
 08/31/2011,Fieldbridge Associates LLC,Brooklyn,NY,40.6944,-73.9915,EB-11-NY-0242,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309455A1.html
-08/23/2011,Robert Mohamed,South Richmond Hill,NY,40.6893,-73.8239,EB-11-NY-0230,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309312A1.html
 08/23/2011,Robert Mohamed,South Richmond Hill,NY,40.6893,-73.8239,EB-11-NY-0230,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309312A1.html
 08/22/2011,Patrick Michael Ford,Fort Myers,FL,26.6220,-81.8711,EB-10-TP-0003,FO,10000,http://transition.fcc.gov/eb/Orders/2011/DA-11-1435A1.html
 08/19/2011,Robert Mohamed,South Richmond Hill,NY,40.6893,-73.8239,EB-11-NY-0230,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-309211A1.html
@@ -704,7 +718,6 @@
 10/02/2009,Byron McLean,Brooklyn,NY,40.6944,-73.9915,EB-09-NY-0271,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293830A1.html
 09/30/2009,Edgar B. Melendez and Erminia Velez,San Francisco,CA,37.7733,-122.4111,EB-09-SF-0059,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293829A1.html
 09/30/2009,Vincent Higgins,East Orange,NJ,40.7702,-74.2087,EB-09-NY-0270,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293828A1.html
-09/30/2009,Vincent Higgins,East Orange,NJ,40.7702,-74.2087,EB-09-NY-0270,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293828A1.html
 09/25/2009,J&P (Brooklyn) Realty LLC,New York,NY,40.7486,-73.9933,EB-09-NY-0259,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293696A1.html
 09/25/2009,Apartment Properties Management LLC,Somerset,NJ,40.5015,-74.5055,EB-09-NY-0258,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293695A1.html
 09/25/2009,Joseph Alexander New Covenant Christian Ministries Worldwide,Bronx,NY,40.8217,-73.9216,EB-09-NY-0254,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-293697A1.html
@@ -835,7 +848,6 @@
 02/25/2009,John W. Shumway,Wappingers Falls,NY,41.5908,-73.8951,EB-09-NY-0055,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-288954A1.html
 02/25/2009,Rhonda Balam,Boynton Beach,FL,26.5477,-80.0555,EB-09-MA-0032,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-288955A1.html
 02/17/2009,Darrell Sivik,Meadville,PA,41.6359,-80.1549,EB-09-BF-0002,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-289231A1.html
-02/17/2009,Darrell Sivik,Meadville,PA,41.6359,-80.1549,EB-09-BF-0002,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-289231A1.html
 02/12/2009,Willardson Family Trust,Ashton,ID,44.0595,-111.3769,EB-08-SD-0328,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-288529A1.html
 02/11/2009,Rachel Bridge Corp.,New York,NY,40.7486,-73.9933,EB-09-NY-0042,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-288523A1.html
 02/11/2009,Hilario Rosario,New York,NY,40.7486,-73.9933,EB-09-NY-0042,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-288521A1.html
@@ -904,7 +916,6 @@
 10/10/2008,Jean Valsaint,Miami,FL,25.8334,-80.2821,EB-08-MA-0132,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286308A1.html
 10/10/2008,Ian F. Atkinson,Mattapan,MA,42.2735,-71.0945,EB-08-BS-0083,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286298A1.html
 10/09/2008,Mr. Ed Properties Inc.,North Miami,FL,25.8940,-80.1819,EB-08-MA-0178,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286306A1.html
-10/09/2008,Tacolcy Economic Development Corporation Inc.,Miami,FL,25.8334,-80.2821,EB-08-MA-0175,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286307A1.html
 10/09/2008,Tacolcy Economic Development Corporation Inc.,Miami,FL,25.8334,-80.2821,EB-08-MA-0175,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286307A1.html
 10/08/2008,Tanya Saavedra,Scranton,PA,41.3582,-75.7021,EB-08-PA-0433,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286300A1.html
 10/08/2008,Dany Cano,Scranton,PA,41.3582,-75.7021,EB-08-PA-0433,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-286299A1.html
@@ -1009,7 +1020,6 @@
 04/18/2008,Donald Damron,Akron,OH,41.0438,-81.5202,EB-08-DT-0052,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281671A1.html
 04/15/2008,Jean Clerveaux Joselyn Edwards,Brooklyn,NY,40.6944,-73.9915,EB-08-NY-0143,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281672A1.html
 04/11/2008,Rene Joseph,Stamford,CT,41.0549,-73.5381,EB-08-BS-0017,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281532A1.html
-04/11/2008,Charles Richeme,Norwalk,CT,41.1222,-73.4326,EB-08-BS-0017,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281531A1.html
 04/11/2008,Charles Richeme,Norwalk,CT,41.1222,-73.4326,EB-08-BS-0017,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281531A1.html
 04/10/2008,Mario Turner,Brockton,MA,42.0799,-71.0352,EB-08-BS-0018,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281530A1.html
 04/10/2008,Phillips Broadcasting LLC WAOC WFOY,Saint Augustine,FL,29.8266,-81.2709,EB-07-TP-191,NAL,8000,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-281512A1.html
@@ -1292,7 +1302,6 @@
 02/22/2007,Mike Hanson,Gonzales,TX,29.5072,-97.4491,EB-07-DL-019,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270823A1.html
 02/22/2007,Raymond Frank,Austin,TX,30.2216,-97.7481,EB-07-DL-017,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270826A1.html
 02/22/2007,Richard Reeves,Austin,TX,30.2216,-97.7481,EB-07-DL-015,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270827A1.html
-02/22/2007,Mike Jones,Austin,TX,30.2216,-97.7481,EB-07-DL-014,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270828A1.html
 02/22/2007,Mike Jones,Austin,TX,30.2216,-97.7481,EB-07-DL-014,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270828A1.html
 02/22/2007,NationStorage Inc.,Fort Lauderdale,FL,26.1214,-80.1305,EB-06-MA-028,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270831A1.html
 02/22/2007,Robert Seamans,Georgetown,TX,30.6447,-97.6520,EB-06-DL-181,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-270824A1.html
