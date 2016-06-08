@@ -1,4 +1,31 @@
 "date","casename","city","state","lat","long","caseno","typeaction","amount","url"
+05/26/2016,Ivan Angeles,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-15-00019896,FO,15000,http://transition.fcc.gov/eb/Orders/2016/DA-16-508A1.html
+05/26/2016,Alejandro Ramirez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019219,FO,15000,http://transition.fcc.gov/eb/Orders/2016/DA-16-506A1.html
+05/26/2016,Jose Luis Hernandez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-15-00018541,FO,10000,http://transition.fcc.gov/eb/Orders/2016/DA-16-504A1.html
+05/23/2016,Conroy Dawson,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00021696,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339597A1.html
+05/23/2016,Mantari Investments LLC,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00021696,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339596A1.html
+05/18/2016,Tilden Towers 1,Long Island City,NY,40.7490,-73.9387,,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339501A1.html
+05/17/2016,Enrique Sanchez,Poughkeepsie,NY,41.6992,-73.9201,,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339502A1.html
+05/12/2016,Jason Pistiolas,San Diego,CA,32.7173,-117.1621,EB-FIELDWR-16-00020739,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339394A1.html
+05/10/2016,Mike Dudley,Guntersville,AL,34.3445,-86.3271,EB-FIELDSCR-16-00021618,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339395A1.html
+05/04/2016,Thys M. & Jeanette Verster,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-16-00021508,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339261A1.html
+05/04/2016,Leonor F. Soto,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-16-00021506,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339263A1.html
+05/04/2016,BN & BC Enterprises Corp.,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-16-00021506,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339258A1.html
+05/04/2016,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00021267,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339259A1.html
+05/04/2016,James E. & Geraldine Howard,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00021046,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339262A1.html
+04/28/2016,Vilnord Simon,North Miami,FL,25.8940,-80.1819,EB-FIELDSCR-15-00019795,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339141A1.html
+04/25/2016,Charles Atkins,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339143A1.html
+04/22/2016,Michael Stanley,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-16-00021103,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339139A1.html
+04/21/2016,Jemima Jean Lucas,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00021316,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339046A1.html
+04/21/2016,5712 NW 22 Ave LLC,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00021268,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339047A1.html
+04/21/2016,Brindley Marshall,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00021268,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339042A1.html
+04/21/2016,Condominium Association of Gateway House Apts. Inc.,North Miami Beach,FL,25.9379,-80.1351,EB-FIELDSCR-16-00021045,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339041A1.html
+04/21/2016,Joseph Mercilise & Emile Milford,Boynton Beach,FL,26.5477,-80.0555,EB-FIELDSCR-16-00020956,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339045A1.html
+04/19/2016,Ahi Ezer,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-16-00021344,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339044A1.html
+04/18/2016,Vered Gedalia,Panorama City,CA,34.2258,-118.4482,EB-FIELDWR-15-00019621,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-339043A1.html
+04/13/2016,Sonia and Lara Belarmino,Arleta,CA,34.2574,-118.4198,EB-FIELDWR-15-00019600,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-338914A1.html
+04/12/2016,Andrew O. Turner,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-15-00018593,FO,15000,http://transition.fcc.gov/eb/Orders/2016/DA-16-392A1.html
+04/06/2016,John Overstreet Jr.,Jefferson,LA,29.9623,-90.1597,EB-FIELDSCR-16-00021342,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-338815A1.html
 02/12/2016,83-40 BRITTON AVENUE LLC,Queens,NY,40.7278,-73.7514,EB-FIELDNER-16-00020896,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-337739A1.html
 02/12/2016,Qiang Yu/Xiu Yun Chen,Queens,NY,40.7278,-73.7514,EB-FIELDNER-16-00020886,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-337746A1.html
 02/08/2016,Assets Recovery Center Investments LLC,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-16-00020838,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-337741A1.html
