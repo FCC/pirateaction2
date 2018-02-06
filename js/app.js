@@ -7,7 +7,7 @@ var actionDetails = {
   statename: ''
 };
 var caseTypeName={"NAL":"NAL", "NOUO":"NOUO", "FO":"FORFEITURE ORDER", "OTHER": "OTHER", "M.O.&O.":"M.O.&O.", "CD":"ORDER & CONSENT DECREE", "NOV":"NOV", "ERRATUM":"ERRATUM"};
-L.mapbox.accessToken = 'pk.eyJ1IjoiY29tcHV0ZWNoIiwiYSI6InMyblMya3cifQ.P8yppesHki5qMyxTc2CNLg';
+L.mapbox.accessToken = 'pk.eyJ1IjoiZmNjIiwiYSI6InBiaGMyLU0ifQ.LOmVYpUCFv2yWpbvxDdQNg';
 var map = L.mapbox.map('map', 'fcc.map-toolde8w')
       .setView([39.5, -98.5], 4);
 
