@@ -134,7 +134,7 @@ table td {
 -------------------------------------*/
 .red {
 	color: rgb(230,69,64);
- font-size: 110, %;
+ /*font-size: 110, %;*/
 }
 
 .red-title {
@@ -225,7 +225,7 @@ Navigation
 	display: block;
 	color: #fff;
 	font-size: 20px;
-	font-weight: regular;
+	font-weight: normal;
 	line-height: 50px;	
 	left: 12px;
 	position: absolute;
@@ -419,20 +419,16 @@ Navigation
 }
 @-webkit-keyframes 
 fade-in {
- from {
- opacity: 0;
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
 }
 
-to {
-	opacity: 1;
+.label {
+	pointer-events: none !important;
 }
-
-.circle{
-	color:'lightSteelBlue';
-	weight:1;
-	fillColor:'red';
-	fillOpacity:0.2;
-}
-
-
 
