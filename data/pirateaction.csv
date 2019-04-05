@@ -1,4 +1,17 @@
 "date","casename","city","state","lat","long","caseno","typeaction","amount","url"
+04/02/2019,GB Ministries Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356845A1.html
+04/01/2019,Maxwell Boamah,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356825A1.html
+04/01/2019,Emmaneul Opong,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356824A1.html
+03/27/2019,160 Miami Gardens LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028564,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356772A1.html
+03/27/2019,Branch Banking and Trust Company,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028562,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356770A1.html
+03/12/2019,Milcia Maldonado,Beaver Meadows,PA,40.9370,-75.9386,EB-FIELDNER-19-00028584,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356554A1.html
+03/12/2019,Fernando Navarro,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028149,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356550A1.html
+03/12/2019,Jacky Saintulet,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356552A1.html
+03/12/2019,Frantz Pascal,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356551A1.html
+03/05/2019,Trevor Forde,Laurelton,NY,40.6717,-73.7520,EB-FIELDNER-18-00026976,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356452A1.html
+03/05/2019,Rafael Vidal,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026578,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356451A1.html
+03/05/2019,1652 Realty LLC,Farmingdale,NY,40.7259,-73.4412,EB-FIELDNER-18-00026578,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356450A1.html
+03/04/2019,Jonathan Campbell,Uniontown,PA,39.8981,-79.7326,EB-FIELDNER-19-00028401,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356429A1.html
 02/28/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356409A1.html
 02/26/2019,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,CD,1500,http://transition.fcc.gov/eb/Orders/2019/DA-19-61A1.html
 02/25/2019,GB Holdings of Georgia Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356338A1.html
@@ -15,7 +28,6 @@
 01/31/2019,Barnstable High School,Barnstable,MA,41.7043,-70.2956,EB-FIELDNER-18-00026485,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356018A1.html
 01/31/2019,MTS Inc.,Bradley,IL,41.1455,-87.8612,EB-FIELDNER-18-0002615,NOV,,http://transition.fcc.gov/eb/Orders/2019/DOC-356017A1.html
 01/29/2019,Vearl Pennington Michael Williamson,Morehead,KY,38.1960,-83.4348,EB-FIELDSCR-16-00022288,FO,144344,http://transition.fcc.gov/eb/Orders/2019/FCC-19-2A1.html
-12/10/2018,Outlaw Trucking,Englewood,CO,39.6465,-104.9904,EB-FIELDWR-18-00027225,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355522A1.html
 12/06/2018,Jerletha Cosby,Elizabeth,NJ,40.6707,-74.2018,EB-FIELDNER-18-00027947,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355435A1.html
 12/04/2018,Rodrick Moore,Prospect Park,NJ,40.9472,-74.1830,EB-FIELDNER-18-00027947,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355438A1.html
 12/03/2018,Matthew Destin,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-18-00028104,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355382A1.html
@@ -33,10 +45,12 @@
 11/05/2018,K & A Management LLC,Roslyn,NY,40.7945,-73.6505,EB-FIELDNER-18-00027249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354981A1.html
 11/05/2018,Ibriham Genchel,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00027249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354979A1.html
 10/31/2018,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,FO,25000,http://transition.fcc.gov/eb/Orders/2018/DA-18-1104A1.html
+10/29/2018,Erron Simmonds,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356810A1.html
 10/23/2018,Kenmil Arias,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-18-00027849,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354738A1.html
 10/23/2018,Wayne Mitchel,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354741A1.html
 10/23/2018,Louise Joseph,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354740A1.html
 10/23/2018,John Glen,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354736A1.html
+10/18/2018,Mark Chanez,Casper,WY,42.8436,-106.3238,EB-FIELDWR-18-00027588,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354656A1.html
 10/18/2018,Mark Chanez,Casper,WY,42.8436,-106.3238,EB-FIELDNER-18-00027588,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354656A1.html
 10/16/2018,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00026466,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354607A1.html
 10/16/2018,Jose Sandoval Cortes,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027439,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354606A1.html
@@ -49,6 +63,7 @@
 10/04/2018,Dover Street Apartment LLC,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025211,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354428A1.html
 10/04/2018,Djovany Pierre,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025211,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354427A1.html
 10/04/2018,Alain Emile Marie O. Omeler,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025078,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354425A1.html
+10/03/2018,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023640,CD,2680,http://transition.fcc.gov/eb/Orders/2018/DA-18-948A1.html
 10/03/2018,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-000236401,CD,2680,http://transition.fcc.gov/eb/Orders/2018/DA-18-948A1.html
 10/01/2018,James Brunelle,Canyon Country,CA,34.4229,-118.4728,EB-FIELDWR-18-00027634,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354347A1.html
 10/01/2018,Philmil Realty Corp,Queens,NY,40.7278,-73.7514,EB-FIELDNER-18-00027368,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354389A1.html
@@ -56,6 +71,7 @@
 10/01/2018,Tremaine Robinson,Norwalk,CT,41.1222,-73.4326,EB-FIELDNER-18-00027334,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354390A1.html
 09/21/2018,Doron Walton,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027328,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354228A1.html
 09/21/2018,1249 Utica LLC,Queens,NY,40.7278,-73.7514,EB-FIELDNER-18-00027328,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354226A1.html
+09/21/2018,William Cotter,Stafford,CT,41.9542,-72.3090,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354230A1.html
 09/21/2018,Menylik Simmonds,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354229A1.html
 09/21/2018,David Glasford,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354227A1.html
 09/19/2018,Marques Dumerant,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354190A1.html
@@ -73,6 +89,7 @@
 08/06/2018,Juan Carlos Uribe,Van Nuys,CA,34.1667,-118.5163,EB-FIELDWR-16-00022797,FO,15000,http://transition.fcc.gov/eb/Orders/2018/DA-18-823A1.html
 07/27/2018,Acerome Jean-Charles,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353064A1.html
 07/25/2018,Prospect Elementary School,Cleveland,TN,35.1536,-84.8825,EB-FIELDSCR-18-00026598,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352965A1.html
+07/19/2018,Fabrice Polynice Harold Sido and Veronise Sido,North Miami,FL,25.8940,-80.1819,EB-FIELDSCR-13-00012949 EB-FIELDSCR-15-00018596,FO,144344,http://transition.fcc.gov/eb/Orders/2018/FCC-18-101A1.html
 07/19/2018,Fabrice Polynice Harold Sido and Veronise Sido,North Miami,FL,25.8940,-80.1819,EB-FIELDSCR-13-00012949 EB-FIELDSCR-15-00018596,FO,144244,http://transition.fcc.gov/eb/Orders/2018/FCC-18-101A1.html
 07/16/2018,Oasis Inn Motel,Van Horn,TX,31.0777,-104.7969,EB-FIELDSCR-18-00027068,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352653A1.html
 07/12/2018,William D. Puig,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00026582 EB-FIELDSCR-18-00027284,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352620A1.html
@@ -82,6 +99,7 @@
 07/11/2018,Rockaway154 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352515A1.html
 07/11/2018,Esther Baez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352545A1.html
 07/11/2018,Jaril Garcia,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352511A1.html
+07/11/2018,Rockaway154 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352515A1.html
 06/20/2018,PRB Entertainment Inc d/b/a Play Yo Part Lounge,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351872A1.html
 06/13/2018,Segundo Velasquez,Danbury,CT,41.3913,-73.4531,EB-FIELDNER-18-00026800,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351642A1.html
 06/13/2018,Reginald Simeon,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026467,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351641A1.html
@@ -114,6 +132,7 @@
 04/18/2018,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350316A1.html
 04/13/2018,Sears Holdings,Brighton,CO,39.8273,-104.9008,EB-FIELDWR-18-00026401,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350232A1.html
 04/13/2018,Alexander J. Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-18-00026170,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350230A1.html
+04/13/2018,Philip Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-17-00025895,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350231A1.html
 04/13/2018,Philip Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDNER-17-00025895,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350231A1.html
 04/11/2018,John Hart,Blackstone,VA,37.0921,-77.9784,EB-FIELDNER-18-00026298,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350188A1.html
 04/11/2018,Bishop Kingsford A. Bloomfield,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026113,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350186A1.html
@@ -123,6 +142,7 @@
 04/05/2018,Monique C. Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350112A1.html
 04/05/2018,Avenue West LLC,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-18-00026249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350111A1.html
 04/03/2018,Nnanna Okoro,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026245,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350056A1.html
+04/03/2018,William Cotter,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350057A1.html
 04/03/2018,William Cotter,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350057A1.html
 04/03/2018,Christian Torres,Bridgeport,CT,41.1765,-73.2000,EB-FIELDNER-17-00025807,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350055A1.html
 03/28/2018,Freddie Rodriguez,Fayetteville,NC,35.0453,-78.8340,EB-FIELDSCR-18-00026180,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349980A1.html
@@ -142,10 +162,12 @@
 02/16/2018,Darren Roebuck,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-18-00026100,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349301A1.html
 02/16/2018,Barry Bennett,Rollinsville,CO,39.8216,-105.2915,EB-FIELDWR-17-00025893,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349300A1.html
 02/15/2018,Town of Ward,Ward,CO,40.1097,-105.4634,EB-FIELDWR-17-00025894,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349302A1.html
+02/12/2018,William John Nurre,Ashland,OR,42.1875,-122.6866,EB-FIELDWR-17-00025296,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349197A1.html
 02/12/2018,Apostle Nicholas Oluyemi,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025877,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349189A1.html
 02/12/2018,Gerlens Cesar,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00023484 EB-FIELDNER-17-00024874 EB-FIELDNER-17-00025342 EB-FIELDNER-17-00025344,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349194A1.html
 02/08/2018,Micheline J. Candio,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025741,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349116A1.html
 02/08/2018,Teresa Brogdon,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025700,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349115A1.html
+01/19/2018,Kedner Maxime,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-15-00020432,CD,2500,http://transition.fcc.gov/eb/Orders/2018/DA-18-50A1.html
 01/05/2018,Rachael Zience,Cleveland,TN,35.1536,-84.8825,EB-FIELDSCR-17-00025842,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348593A1.html
 01/04/2018,SANSUN LLC,Ridgewood,NJ,40.9822,-74.1138,EB-FIELDNER-17-00025622,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348583A1.html
 01/04/2018,Anthony Court Condominium Associates,Jersey City,NJ,40.7600,-74.0671,EB-FIELDNER-17-00025622,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348582A1.html
