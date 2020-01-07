@@ -1,469 +1,589 @@
 date,casename,city,state,lat,long,caseno,typeaction,amount,url
-11/13/2019,John Herkaler,Montague,NJ,41.3002,-74.7611,EB-FIELDNER-19-00029789,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360864A1.html
-11/13/2019,771 East 213th Street LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029773,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360863A1.html
-11/13/2019,ConexMedia Production Inc.,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00029514,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360865A1.html
-10/30/2019,Winnifred Herman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029856,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360573A1.html
-10/30/2019,Choice Gospel Network Intl.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029856,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360570A1.html
-10/30/2019,Maureen Scott,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-19-00029598,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360572A1.html
-10/7/2019,1304 NY Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029696,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360145A1.html
-10/7/2019,Mally Auto Sales,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00028861,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360109A1.html
-10/3/2019,Charles Michael Goodwin,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-19-00029844,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-360093A1.html
-9/26/2019,Jose Mata Pichardo,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-19-00029649,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359925A1.html
-9/26/2019,2155 Grand Avenue Holdings LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029649,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359924A1.html
-9/17/2019,Manuel Gonzalez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-19-00029495,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359727A1.html
-9/17/2019,Clara Tamayo,Clifton,NJ,40.8793,-74.143,EB-FIELDNER-19-00029495,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359726A1.html
-9/5/2019,Samson Bernard,Maplewood,NJ,40.7281,-74.2664,EB-FIELDNER-19-00029646,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-3595R1013A1.html
-9/5/2019,Fernando Viloria,Freeport,NY,40.6533,-73.5862,EB-FIELDNER-19-00029585,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359508A1.html
-9/5/2019,Pierre Conde Marie Carmelle Conde,Everett,MA,42.4101,-71.052,EB-FIELDNER-19-00029388,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-3595R1012A1.html
-9/5/2019,Moise Litus,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-19-00029326,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-3595R1011A1.html
-9/5/2019,Jasemo LLC,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-19-00029326,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359509A1.html
-9/5/2019,Juan Dedios Parking,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028148,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-3595R1010A1.html
-8/29/2019,International Broadcasting Inc.,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359417A1.html
-8/29/2019,Francisco Fernandez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-19-00029493,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359416A1.html
-8/29/2019,Joshua C. Warren,Martinsville,IN,39.4475,-86.4196,EB-FIELDNER-19-00028679,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359419A1.html
-8/23/2019,Winston and Sonia Murdock,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00029408,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359269A1.html
-8/23/2019,Sailboat Cay Condominium Association Inc.,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-19-00029407,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359267A1.html
-8/22/2019,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NAL,10000,http://transition.fcc.gov/eb/Orders/2019/DA-19-799A1.html
-8/22/2019,Ralph F. Hooper,Swanzey,NH,42.8648,-72.2927,EB-FIELDNER-19-00029106,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359245A1.html
-8/14/2019,Maria C. Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359094A1.html
-8/14/2019,Angelica J. Moreno,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-359093A1.html
-8/8/2019,Donald Rosskopf,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-19-00029488,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358988A1.html
-7/23/2019,Ricardo Allen,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-19-00029378,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358663A1.html
-7/23/2019,Fredis Bonilla,Huntington Station,NY,40.8221,-73.3779,EB-FIELDNER-19-00029245,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358659A1.html
-7/23/2019,Marcos E. Flores,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-19-00029243,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358661A1.html
-7/23/2019,Jose Sigifredo Torres,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-19-00029236,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358660A1.html
-7/23/2019,Rafael Martinez,Fords,NJ,40.537,-74.3126,EB-FIELDNER-19-00029195,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358662A1.html
-7/23/2019,Terrace Hall Partners LLC,Burlington,MA,42.5046,-71.2013,EB-FIELDNER-19-00029189,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358665A1.html
-7/23/2019,Roberman Chery,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358681A1.html
-7/12/2019,Vida Abundante,San Bernardino,CA,34.1075,-117.2909,EB-FIELDWR-19-00029179,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358488A1.html
-7/10/2019,Magreniase Raphael,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-18-00028189,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358489A1.html
-6/27/2019,Elenilson Claros,Central Islip,NY,40.7859,-73.2008,EB-FIELDNER-19-00028844,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358210A1.html
-6/27/2019,John Hines,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358212A1.html
-6/27/2019,Duwaine Smalling,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358209A1.html
-6/27/2019,Andre Ferguson,Valley Stream,NY,40.6732,-73.7045,EB-FIELDNER-18-00026708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358206A1.html
-6/27/2019,Adrian Lewis,Flushing,NY,40.7511,-73.8214,EB-FIELDNER-18-00026708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358205A1.html
-6/27/2019,Dionisio Nova,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025031,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358208A1.html
-6/27/2019,Anibal Liriano,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025031,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358207A1.html
-6/18/2019,Radio Teleboston,Malden,MA,42.4296,-71.0607,EB-FIELDNER-19-00029169 EB-FIELDNER-17-00025344 EB-FIELDNER-17-00024874,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358058A1.html
-6/18/2019,Temistocles Arias,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00029067,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358061A1.html
-6/18/2019,Remi Marte,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00029067,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358059A1.html
-6/18/2019,Angel Rivas,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00029067,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358057A1.html
-6/18/2019,Acerome Jean-Charles,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-358055A1.html
-6/11/2019,Restney Acosta,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00028860,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357933A1.html
-6/11/2019,Niuberis Lopez,Hazle Township,PA,40.9585,-75.9745,EB-FIELDNER-19-00028860,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357932A1.html
-6/11/2019,Domingo Lopez,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00028860,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357931A1.html
-6/11/2019,Ron Adams,Ligonier,PA,40.2438,-79.2301,EB-FIELDNER-19-00028828 EB-FIELDNER-19-00029139,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357934A1.html
-6/11/2019,Watkins Cluster L.P.,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028711,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357935A1.html
-6/5/2019,Yohany Bonilla,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357849A1.html
-6/5/2019,Gina Torres,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357847A1.html
-5/29/2019,Manuel Pimentel,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-19-00029094,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357748A1.html
-5/29/2019,Willmohr 1026 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028639,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357750A1.html
-5/29/2019,Dr. Prophet Ini Okpon,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028639,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357744A1.html
-5/29/2019,Marie Jacquet,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027368,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357749A1.html
-5/29/2019,Jean Francois,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027368,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357746A1.html
-5/20/2019,Thousand Oaks Bible Church,San Antonio,TX,29.4705,-98.5305,EB-FIELDSCR-19-00028748,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357562A1.html
-5/20/2019,Elegant Women Production,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028564,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357563A1.html
-5/20/2019,Nasshon Johnson,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357564A1.html
-5/20/2019,ABC Real Estate Investors,Fairfield,CT,41.1552,-73.2596,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357561A1.html
-5/20/2019,Trevor Hutchinson,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357559A1.html
-5/17/2019,Melba Reid,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028293,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357543A1.html
-5/17/2019,Syed Uddin,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028120,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357544A1.html
-5/17/2019,1539-1547 Pitkin Avenue Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028120,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357541A1.html
-5/16/2019,Yvrose Etienne,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026704,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357540A1.html
-5/16/2019,David Glasford,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357539A1.html
-5/10/2019,Willmohr 1026 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028637,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357415A1.html
-5/10/2019,Pastor Tito Paul,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028637,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357414A1.html
-5/10/2019,Milcia Maldonado,Beaver Meadows,PA,40.937,-75.9386,EB-FIELDNER-19-00028584,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357413A1.html
-4/24/2019,Alex Bruno,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028693,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357170A1.html
-4/18/2019,Noah Gyamfi,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357116A1.html
-4/18/2019,Jakob & Justin LLC,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357115A1.html
-4/18/2019,Dan Auto Repairs,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028708,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357113A1.html
-4/18/2019,Warner Mendenhall,Akron,OH,41.0438,-81.5202,EB-FIELDNER-19-00028657,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357118A1.html
-4/18/2019,The Way of Mind and Body,Akron,OH,41.0438,-81.5202,EB-FIELDNER-19-00028657,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357117A1.html
-4/18/2019,Emmanuel Nol,Pawtucket,RI,41.8725,-71.3892,EB-FIELDNER-18-00028214 EB-FIELDNER-19-00028660 EB-FIELDNER-19-00028812,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357114A1.html
-4/15/2019,Nathan and Amber Redman,Waldo,OH,40.4627,-83.0537,EB-FIELDNER-18-00028250,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-357028A1.html
-4/11/2019,All in One Investment Group LLC,Hallandale Beach,FL,25.9854,-80.1415,EB-FIELDSCR-19-00028687,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356976A1.html
-4/11/2019,Frank Reimer,East Brunswick,NJ,40.4295,-74.4046,EB-FIELDNER-18-00028232,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356975A1.html
-4/2/2019,GB Ministries Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356845A1.html
-4/1/2019,Maxwell Boamah,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356825A1.html
-4/1/2019,Emmaneul Opong,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356824A1.html
-3/27/2019,160 Miami Gardens LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028564,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356772A1.html
-3/27/2019,Branch Banking and Trust Company,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028562,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356770A1.html
-3/12/2019,Milcia Maldonado,Beaver Meadows,PA,40.937,-75.9386,EB-FIELDNER-19-00028584,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356554A1.html
-3/12/2019,Fernando Navarro,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028149,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356550A1.html
-3/12/2019,Jacky Saintulet,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356552A1.html
-3/12/2019,Frantz Pascal,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356551A1.html
-3/5/2019,Trevor Forde,Laurelton,NY,40.6717,-73.752,EB-FIELDNER-18-00026976,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356452A1.html
-3/5/2019,Rafael Vidal,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026578,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356451A1.html
-3/5/2019,1652 Realty LLC,Farmingdale,NY,40.7259,-73.4412,EB-FIELDNER-18-00026578,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356450A1.html
-3/4/2019,Jonathan Campbell,Uniontown,PA,39.8981,-79.7326,EB-FIELDNER-19-00028401,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356429A1.html
-2/28/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356409A1.html
-2/26/2019,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,CD,1500,http://transition.fcc.gov/eb/Orders/2019/DA-19-61A1.html
-2/25/2019,GB Holdings of Georgia Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356338A1.html
-2/22/2019,Gideon Yorke,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028114,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356334A1.html
-2/22/2019,John Glen,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356337A1.html
-2/22/2019,2405 Tilden Avenue LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356336A1.html
-2/13/2019,1939 G.C. LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028148,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356195A1.html
-2/11/2019,Cesar Ascarrunz,San Francisco,CA,37.7733,-122.4111,EB-FIELDWR-18-00027601,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356194A1.html
-2/6/2019,Nancy Graham,Santa Cruz,CA,36.9825,-122.0412,EB-FIELDWR-18-00027444,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356128A1.html
-1/31/2019,Ernst Gourdet Pierrilise Gourdet,Boston,MA,42.3577,-71.0641,EB-FIELDNER-18-00028216,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356019A1.html
-1/31/2019,Tara Cannon,Parlin,NJ,40.4607,-74.3042,EB-FIELDNER-18-00028125,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356025A1.html
-1/31/2019,Paul Cannon,Parlin,NJ,40.4607,-74.3042,EB-FIELDNER-18-00028125,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356021A1.html
-1/31/2019,Patrick Reid,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026503,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356020A1.html
-1/31/2019,Barnstable High School,Barnstable,MA,41.7043,-70.2956,EB-FIELDNER-18-00026485,NOUO,,http://transition.fcc.gov/eb/Orders/2019/DOC-356018A1.html
-1/31/2019,MTS Inc.,Bradley,IL,41.1455,-87.8612,EB-FIELDNER-18-0002615,NOV,,http://transition.fcc.gov/eb/Orders/2019/DOC-356017A1.html
-1/29/2019,Vearl Pennington Michael Williamson,Morehead,KY,38.196,-83.4348,EB-FIELDSCR-16-00022288,FO,144344,http://transition.fcc.gov/eb/Orders/2019/FCC-19-2A1.html
-12/19/2018,Bernice Mitchell,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-18-00027611,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356867A1.html
-12/13/2018,Joaquin Pena,Newburgh,NY,41.5232,-74.0392,EB-FIELDNER-18-00027630,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356869A1.html
-12/6/2018,Jerletha Cosby,Elizabeth,NJ,40.6707,-74.2018,EB-FIELDNER-18-00027947,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355435A1.html
-12/4/2018,Rodrick Moore,Prospect Park,NJ,40.9472,-74.183,EB-FIELDNER-18-00027947,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355438A1.html
-12/3/2018,Matthew Destin,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-18-00028104,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355382A1.html
-12/3/2018,Albo Investments LLC,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-18-00028104,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355381A1.html
-12/3/2018,Marie Preal,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00028068,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355383A1.html
-12/3/2018,Miami Office Center LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027923,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355384A1.html
-11/20/2018,Peter Diablo,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027782,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355327A1.html
-11/20/2018,915 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027782,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355320A1.html
-11/14/2018,John Palmeri,Middletown,NY,41.4494,-74.4332,EB-FIELDNER-18-00027967,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355086A1.html
-11/14/2018,Mendy Amsel,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-18-00027679,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355087A1.html
-11/14/2018,Tawanna M Brown Brooklyn LLC,Hanover Township,PA,41.2181,-75.9184,EB-FIELDNER-18-00027160,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355085A1.html
-11/13/2018,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355075A1.html
-11/8/2018,Jean Pierre Lorelus,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00027778,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355020A1.html
-11/7/2018,Daryl Thomas,Carmichael,CA,38.6284,-121.3306,EB-FIELDWR-18-00025955,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-355037A1.html
-11/5/2018,K & A Management LLC,Roslyn,NY,40.7945,-73.6505,EB-FIELDNER-18-00027249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354981A1.html
-11/5/2018,Ibriham Genchel,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00027249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354979A1.html
-10/31/2018,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,FO,25000,http://transition.fcc.gov/eb/Orders/2018/DA-18-1104A1.html
-10/29/2018,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356810A1.html
-10/25/2018,1325 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027250,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356865A1.html
-10/23/2018,Kenmil Arias,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-18-00027849,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354738A1.html
-10/23/2018,Wayne Mitchel,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354741A1.html
-10/23/2018,Louise Joseph,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354740A1.html
-10/23/2018,John Glen,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354736A1.html
-10/18/2018,Mark Chanez,Casper,WY,42.8436,-106.3238,EB-FIELDWR-18-00027588,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354656A1.html
-10/18/2018,Mark Chanez,Casper,WY,42.8436,-106.3238,EB-FIELDNER-18-00027588,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354656A1.html
-10/16/2018,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00026466,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354607A1.html
-10/16/2018,Jose Sandoval Cortes,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027439,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354606A1.html
-10/16/2018,New Beginnings Fellowship Church of Houston,Houston,TX,29.7575,-95.3652,EB-FIELDSCR-17-00024379,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354605A1.html
-10/16/2018,Joe Donalson,Houston,TX,29.7575,-95.3652,EB-FIELDSCR-17-00024379,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354604A1.html
-10/15/2018,Iglesia Bautista Renovacion Ministerio Internacional,Amarillo,TX,35.2056,-101.8415,EB-FIELDSCR-18-00027582,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354562A1.html
-10/15/2018,Emir Alberto Morales Chapas,Port Arthur,TX,29.888,-93.9589,EB-FIELDSCR-18-00026568,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354563A1.html
-10/4/2018,Miriam Gabriel,South Orange,NJ,40.7478,-74.2594,EB-FIELDNER-17-00025457,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354431A1.html
-10/4/2018,Jean Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354430A1.html
-10/4/2018,Dover Street Apartment LLC,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025211,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354428A1.html
-10/4/2018,Djovany Pierre,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025211,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354427A1.html
-10/4/2018,Alain Emile Marie O. Omeler,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025078,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354425A1.html
-10/3/2018,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023640,CD,2680,http://transition.fcc.gov/eb/Orders/2018/DA-18-948A1.html
-10/3/2018,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-000236401,CD,2680,http://transition.fcc.gov/eb/Orders/2018/DA-18-948A1.html
-10/1/2018,James Brunelle,Canyon Country,CA,34.4229,-118.4728,EB-FIELDWR-18-00027634,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354347A1.html
-10/1/2018,Philmil Realty Corp,Queens,NY,40.7278,-73.7514,EB-FIELDNER-18-00027368,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354389A1.html
-10/1/2018,Godwin Browne,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027368,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354388A1.html
-10/1/2018,Tremaine Robinson,Norwalk,CT,41.1222,-73.4326,EB-FIELDNER-18-00027334,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354390A1.html
-9/21/2018,Doron Walton,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027328,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354228A1.html
-9/21/2018,1249 Utica LLC,Queens,NY,40.7278,-73.7514,EB-FIELDNER-18-00027328,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354226A1.html
-9/21/2018,William Cotter,Stafford,CT,41.9542,-72.309,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354230A1.html
-9/21/2018,Menylik Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354229A1.html
-9/21/2018,David Glasford,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354227A1.html
-9/19/2018,Marques Dumerant,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354190A1.html
-9/18/2018,Odiclair Joseph and Junie Pierre,Lauderhill,FL,26.1442,-80.1708,EB-FIELDSCR-18-00027313,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354182A1.html
-9/14/2018,Jean Robert Valsaint,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027569,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354110A1.html
-9/13/2018,Efrain Lanchi Ortega,Queens,NY,40.7278,-73.7514,EB-FIELDNER-17-00024174,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-354109A1.html
-8/27/2018,Wilfrid Pressa,Florida City,FL,25.4449,-80.4946,EB-FIELDSCR-18-00027390,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353832A1.html
-8/27/2018,Henry L. Streeter,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027309,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353833A1.html
-8/22/2018,Richard Barcelona,Vero Beach,FL,27.6353,-80.4006,EB-FIELDSCR-18-00026734,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353786A1.html
-8/22/2018,Timothy A. Granger,Williamson,WV,37.6814,-82.2749,EB-FIELDNER-18-00027344,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353787A1.html
-8/21/2018,Emerald Terrace Limited Partnership,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027286,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353772A1.html
-8/21/2018,Kingsbridge Development Corp.,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027283,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353770A1.html
-8/21/2018,Minnie M. Wilkerson Louise Kimbrough,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027282,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353769A1.html
-8/21/2018,Ramash Realty LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00026780,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353771A1.html
-8/7/2018,Ernie Santiago,San Juan,PR,18.4567,-66.1065,EB-FIELDSCR-18-00026038,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356870A1.html
-8/6/2018,Juan Carlos Uribe,Van Nuys,CA,34.1667,-118.5163,EB-FIELDWR-16-00022797,FO,15000,http://transition.fcc.gov/eb/Orders/2018/DA-18-823A1.html
-7/27/2018,Acerome Jean-Charles,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-353064A1.html
-7/25/2018,Prospect Elementary School,Cleveland,TN,35.1536,-84.8825,EB-FIELDSCR-18-00026598,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352965A1.html
-7/19/2018,Fabrice Polynice Harold Sido and Veronise Sido,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-13-00012949 EB-FIELDSCR-15-00018596,FO,144344,http://transition.fcc.gov/eb/Orders/2018/FCC-18-101A1.html
-7/19/2018,Fabrice Polynice Harold Sido and Veronise Sido,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-13-00012949 EB-FIELDSCR-15-00018596,FO,144244,http://transition.fcc.gov/eb/Orders/2018/FCC-18-101A1.html
-7/16/2018,Oasis Inn Motel,Van Horn,TX,31.0777,-104.7969,EB-FIELDSCR-18-00027068,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352653A1.html
-7/12/2018,William D. Puig,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00026582 EB-FIELDSCR-18-00027284,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356871A1.html
-7/12/2018,William D. Puig,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00026582 EB-FIELDSCR-18-00027284,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352620A1.html
-7/12/2018,Rockaway154 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352621A1.html
-7/11/2018,Maglie Plaismond,Cranston,RI,41.7755,-71.4357,EB-FIELDNER-18-00027022,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352512A1.html
-7/11/2018,Michael Costa,Providence,RI,41.8181,-71.4088,EB-FIELDNER-18-00026998,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352513A1.html
-7/11/2018,Rockaway154 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352515A1.html
-7/11/2018,Esther Baez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352545A1.html
-7/11/2018,Jaril Garcia,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352511A1.html
-7/11/2018,Rockaway154 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-352515A1.html
-6/20/2018,PRB Entertainment Inc d/b/a Play Yo Part Lounge,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351872A1.html
-6/13/2018,Segundo Velasquez,Danbury,CT,41.3913,-73.4531,EB-FIELDNER-18-00026800,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351642A1.html
-6/13/2018,Reginald Simeon,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026467,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351641A1.html
-6/13/2018,Mario Louis,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-18-00026336,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351639A1.html
-6/13/2018,110 Washington EO LLC,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-18-00026336,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351635A1.html
-6/13/2018,Max Hamoy,Danbury,CT,41.3913,-73.4531,EB-FIELDNER-17-00025810,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351640A1.html
-6/13/2018,Jack Akaffou,New Haven,CT,41.3172,-72.9268,EB-FIELDNER-17-00025808,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351638A1.html
-6/13/2018,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351637A1.html
-6/8/2018,Ivan Angeles,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-15-00019896,PFR Order,15000,http://transition.fcc.gov/eb/Orders/2018/DA-18-594A1.html
-5/22/2018,Credo LLC,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350929A1.html
-5/22/2018,Iglesia La Nueva Jerusalen Ciudad De La Verdad Monte De Santidad Inc.,Baton Rouge,LA,30.4495,-91.1871,EB-FIELDSCR-17-00025638,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350926A1.html
-5/22/2018,Brenda McHardy,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024574,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350928A1.html
-5/22/2018,Cameron Brown,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024574,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350927A1.html
-5/22/2018,Steffon Samaroo,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026421,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350925A1.html
-5/18/2018,Primera Iglesia Bautista Del Sur SF,San Francisco,CA,37.7733,-122.4111,EB-FIELDWR-18-00026457,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-351345A1.html
-5/18/2018,Danny Preston,Los Angeles,CA,33.9734,-118.249,EB-FIELDWR-18-00026073,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-356946A1.html
-5/15/2018,Thomas Eugene Barnes,La Grande,OR,45.3268,-118.0885,EB-FIELDWR-18-00026591,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350742A1.html
-5/15/2018,John G. Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350740A1.html
-5/10/2018,Sanjiv Jain,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-18-00026725,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350671A1.html
-5/10/2018,Nicolas Ronald,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-18-00026725,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350670A1.html
-5/10/2018,Cayemite J. Edner,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00024803,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350669A1.html
-4/25/2018,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NAL,25000,http://transition.fcc.gov/eb/Orders/2018/DA-18-405A1.html
-4/24/2018,Pastor Ragive Dulcio,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026470,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350417A1.html
-4/24/2018,Falak Real Estate LLC,Piscataway,NJ,40.5553,-74.4628,EB-FIELDNER-18-00026406,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350415A1.html
-4/24/2018,Daniel Sigcho,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-18-00026406,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350414A1.html
-4/24/2018,Greg Banks,Huntingdon,PA,40.4948,-78.0142,EB-FIELDNER-18-00026390,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350416A1.html
-4/20/2018,California State University East Bay,Hayward,CA,37.6323,-122.055,EB-FIELDWR-18-00026102,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350363A1.html
-4/18/2018,Claude & Edma Saintilmar,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350317A1.html
-4/18/2018,Geovanni Valdez,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026478,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350315A1.html
-4/18/2018,Godfrey Jones,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025595,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350314A1.html
-4/18/2018,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350316A1.html
-4/13/2018,Sears Holdings,Brighton,CO,39.8273,-104.9008,EB-FIELDWR-18-00026401,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350232A1.html
-4/13/2018,Alexander J. Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-18-00026170,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350230A1.html
-4/13/2018,Philip Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-17-00025895,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350231A1.html
-4/13/2018,Philip Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDNER-17-00025895,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350231A1.html
-4/11/2018,John Hart,Blackstone,VA,37.0921,-77.9784,EB-FIELDNER-18-00026298,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350188A1.html
-4/11/2018,Bishop Kingsford A. Bloomfield,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026113,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350186A1.html
-4/9/2018,HP Andre Way LLC,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026311,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350126A1.html
-4/9/2018,SIJC Trusted LLC,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350127A1.html
-4/9/2018,14915 South River Drive Inc.,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026223,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350125A1.html
-4/5/2018,Monique C. Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350112A1.html
-4/5/2018,Avenue West LLC,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-18-00026249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350111A1.html
-4/3/2018,Nnanna Okoro,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026245,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350056A1.html
-4/3/2018,William Cotter,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350057A1.html
-4/3/2018,William Cotter,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025809,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350057A1.html
-4/3/2018,Christian Torres,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025807,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-350055A1.html
-3/28/2018,Freddie Rodriguez,Fayetteville,NC,35.0453,-78.834,EB-FIELDSCR-18-00026180,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349980A1.html
-3/28/2018,Jerome Moultrie,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349981A1.html
-3/28/2018,Angel Rigoberto Pinzon,Ossining,NY,41.1716,-73.8517,EB-FIELDNER-18-00026249,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349978A1.html
-3/28/2018,Jean Claude Michel,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349979A1.html
-3/26/2018,108 Field Place Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025676,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349966A1.html
-3/26/2018,Parkash 1718 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025596,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349967A1.html
-3/6/2018,Robert Bekune,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026247,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349604A1.html
-3/6/2018,Daniel Thelisma,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00025761,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349603A1.html
-3/5/2018,Troy Cheever,Deltaville,VA,37.5526,-76.3445,EB-FIELDNER-18-00026281,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349605A1.html
-3/2/2018,Nelda Jean,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00025496,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349607A1.html
-3/1/2018,Cascade Pacific Real Estate Services LLC,Fircrest,WA,47.2288,-122.5362,EB-FIELDWR-18-00025974,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349546A1.html
-3/1/2018,Antonio Mendes,Elizabeth,NJ,40.6707,-74.2018,EB-FIELDNER-18-00026122,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349545A1.html
-2/27/2018,Eric V. Evans,Yuma,AZ,32.7005,-114.644,EB-FIELDWR-18-00025988,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349496A1.html
-2/27/2018,Arthur Ware,Des Moines,WA,47.4486,-122.3276,EB-FIELDWR-18-00025974,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349495A1.html
-2/16/2018,Darren Roebuck,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-18-00026100,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349301A1.html
-2/16/2018,Barry Bennett,Rollinsville,CO,39.8216,-105.2915,EB-FIELDWR-17-00025893,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349300A1.html
-2/15/2018,Town of Ward,Ward,CO,40.1097,-105.4634,EB-FIELDWR-17-00025894,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349302A1.html
-2/12/2018,William John Nurre,Ashland,OR,42.1875,-122.6866,EB-FIELDWR-17-00025296,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349197A1.html
-2/12/2018,Apostle Nicholas Oluyemi,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025877,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349189A1.html
-2/12/2018,Gerlens Cesar,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00023484 EB-FIELDNER-17-00024874 EB-FIELDNER-17-00025342 EB-FIELDNER-17-00025344,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349194A1.html
-2/8/2018,Micheline J. Candio,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025741,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349116A1.html
-2/8/2018,Teresa Brogdon,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025700,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-349115A1.html
-1/19/2018,Kedner Maxime,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-15-00020432,CD,2500,http://transition.fcc.gov/eb/Orders/2018/DA-18-50A1.html
-1/5/2018,Rachael Zience,Cleveland,TN,35.1536,-84.8825,EB-FIELDSCR-17-00025842,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348593A1.html
-1/4/2018,SANSUN LLC,Ridgewood,NJ,40.9822,-74.1138,EB-FIELDNER-17-00025622,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348583A1.html
-1/4/2018,Anthony Court Condominium Associates,Jersey City,NJ,40.76,-74.0671,EB-FIELDNER-17-00025622,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348582A1.html
-1/4/2018,Andy Liriano,Jersey City,NJ,40.76,-74.0671,EB-FIELDNER-17-00025622,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348580A1.html
-1/4/2018,Isidro Sanchez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025376,NOUO,,http://transition.fcc.gov/eb/Orders/2018/DOC-348581A1.html
-12/22/2017,Sason Mercues,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00025718,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348526A1.html
-12/22/2017,Michael and Susan Anderson,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-17-00025632,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348524A1.html
-12/22/2017,World Hype Radio,Stroudsburg,PA,40.985,-75.2555,EB-FIELDNER-17-00025400,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348521A1.html
-12/22/2017,Roy Charles,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024808,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348525A1.html
-12/21/2017,Dexter Dixon Sr.,Riviera Beach,FL,26.7996,-80.0714,EB-FIELDSCR-17-00025788,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348456A1.html
-12/21/2017,Country Wide Mortgage Funding LLC,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025782,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348458A1.html
-12/21/2017,Blossom Dickenson,Miramar,FL,25.9886,-80.2112,EB-FIELDSCR-17-00025701,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348457A1.html
-12/21/2017,Ranym Investments Corp.,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025700,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348459A1.html
-12/21/2017,MMG Bergenline Inc.,New York,NY,40.7486,-73.9933,EB-FIELDNER-17-00025620,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348523A1.html
-12/21/2017,Eliezer Gomez,Union City,NJ,40.771,-74.0207,EB-FIELDNER-17-00025620,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348522A1.html
-12/20/2017,The Omega Church International Ministries Inc.,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025680,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348455A1.html
-12/20/2017,Patrick Jean Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348454A1.html
-12/20/2017,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348453A1.html
-12/20/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025342 EB-FIELDNER-17-00025344 EB-FIELDNER-17-00024874,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348452A1.html
-12/19/2017,Iglesia La Nueva Jerusalen and Francisco Guzman,Baton Rouge,LA,30.4495,-91.1871,EB-FIELDSCR-17-00025638,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348390A1.html
-12/14/2017,The Music Box Village and Taylor Shephard,New Orleans,LA,29.9551,-90.0755,EB-FIELDSCR-17-00025418,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348371A1.html
-12/14/2017,Nicolas Ronald,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00024816,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348369A1.html
-12/14/2017,Gray Auto Clinic and Tire Services,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024787,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348367A1.html
-12/14/2017,Fabian Gaskin,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00024787,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348366A1.html
-12/14/2017,Yvon Grandchamps,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024617,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348370A1.html
-12/14/2017,Andy Milvoix,Malden,MA,42.4296,-71.0607,EB-FIELDNER-17-00024617,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348365A1.html
-12/14/2017,Ignace Jean-Charles,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348368A1.html
-12/13/2017,Christopher W. Suessle,Pleasant Valley,NY,41.7395,-73.8079,EB-FIELDNER-17-00025458,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348358A1.html
-12/8/2017,Wilfrid Salomon,Lauderdale Lakes,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024576,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348184A1.html
-12/8/2017,Robin R. Dunham,Carthage,IL,40.4105,-91.1188,EB-FIELDNER-17-00024522,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348183A1.html
-12/5/2017,Robenson Thermitus,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024580,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348110A1.html
-12/5/2017,Brindley Marshall,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024510,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348109A1.html
-11/21/2017,Juan Carlos Uribe,Van Nuys,CA,34.1667,-118.5163,EB-FIELDWR-16-00022797,NAL,15000,http://transition.fcc.gov/eb/Orders/2017/DA-17-1128A1.html
-11/20/2017,1973 Bay Ridge Parkway Inc.,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00025577,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347852A1.html
-11/20/2017,Adner and Carlie Joseph,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-17-00025520,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347853A1.html
-11/20/2017,Alejandrino Ramos,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025519,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347854A1.html
-11/20/2017,Wanick Saint Fleur and Rose Saint Fleur,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00025507,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347850A1.html
-11/20/2017,Hollywood Cambridge Partners LLC,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00025496,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347855A1.html
-11/20/2017,Palm Beach Rentals Inc.,Riviera Beach,FL,26.7996,-80.0714,EB-FIELDSCR-17-00025469,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347856A1.html
-11/20/2017,Sylvio Pierre,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025090,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347849A1.html
-11/20/2017,Handsome Jimmy Fanning Legendz Tattoo and Smoke Shop,Vero Beach,FL,27.6353,-80.4006,EB-FIELDSCR-17-00024998,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347882A1.html
-11/20/2017,Jocelyn M. Joseph,Vero Beach,FL,27.6353,-80.4006,EB-FIELDSCR-17-00024998,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347847A1.html
-11/20/2017,Vilnord Simon,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023741,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347851A1.html
-11/20/2017,Chandra Paul Arjun,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00025457,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347886A1.html
-11/20/2017,Sanjiv Jain 439 Main Street Inc.,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00025420 EB-FIELDNER-17-00024816 EB-FIELDNER-17-00024786,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347880A1.html
-11/20/2017,Derrick Powell,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00024787,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347888A1.html
-11/20/2017,Mackinson Desna,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00024786,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347890A1.html
-11/20/2017,N12 Realty LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024726,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347891A1.html
-11/20/2017,Kacy Rankine,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024726,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347889A1.html
-11/20/2017,Oakwood Avenue Properties Inc.,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00023357,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347893A1.html
-11/20/2017,Nestor Sanango,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00023357,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347892A1.html
-11/16/2017,Rose Monique Almonor,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00025286,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347834A1.html
-11/15/2017,Jason Bird,Las Vegas,NV,36.1883,-115.1425,EB-FIELDWR-17-00025453,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347835A1.html
-11/9/2017,Ray Daniels World Hype Radio,Stroudsburg,PA,40.985,-75.2555,EB-FIELDNER-17-00025400,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347709A1.html
-11/9/2017,Pastor Nana Frimpong Power Tabernacle Ministries,East Hartford,CT,41.7791,-72.6222,EB-FIELDNER-17-00025164,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347712A1.html
-11/9/2017,Roberta Davis,Stamford,CT,41.0549,-73.5381,EB-FIELDNER-17-00025138,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347713A1.html
-11/9/2017,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347706A1.html
-11/9/2017,Tamara Jackson,Hartford,CT,41.7888,-72.663,EB-FIELDNER-17-00025135,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347715A1.html
-11/9/2017,Tashai Martin Foster,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025135 EB-FIELDNER-17-00025136 EB-FIELDNER-17-00025137 EB-FIELDNER-17-00025138,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347707A1.html
-11/9/2017,Victor Miller,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025042,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347708A1.html
-11/9/2017,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347710A1.html
-11/6/2017,SH&S Properties LLP,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00025229,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347670A1.html
-11/3/2017,Wilmeack Pierre Dacypher Entertainment,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025460,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347620A1.html
-11/3/2017,David Cange BelTop Boston,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025179,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347616A1.html
-11/3/2017,Ignace Jean-Charles,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347618A1.html
-11/1/2017,William Batiste,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025369,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347564A1.html
-11/1/2017,Richard Hairston,Erie,PA,42.1239,-80.0864,EB-FIELDNER-17-00025127,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347562A1.html
-11/1/2017,Milka Placencia,Perth Amboy,NJ,40.5192,-74.2755,EB-FIELDNER-17-00024814,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347561A1.html
-11/1/2017,Ludwig Freiberg,Oxford,NJ,40.81,-74.9804,EB-FIELDNER-17-00024810,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347560A1.html
-11/1/2017,Vladimir Rosario,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024805,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347563A1.html
-10/31/2017,Rocheney Charles & Judith Oreste,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025084,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347558A1.html
-10/31/2017,Eglon Garvey,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025056,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347557A1.html
-10/31/2017,Efrain Lanchi Ortega,Queens,NY,40.7278,-73.7514,EB-FIELDNER-17-00024174,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347617A1.html
-10/31/2017,Migui Mora,Queens,NY,40.7278,-73.7514,EB-FIELDNER-17-00023948,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347619A1.html
-10/26/2017,Nadege Elysee,Boynton Beach,FL,26.5477,-80.0555,EB-FIELDSCR-16-00022525,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348564A1.html
-10/26/2017,Jean Yves Tullias,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-15-00019483,FO,3800,http://transition.fcc.gov/eb/Orders/2017/DA-17-1046A1.html
-10/20/2017,Cesar Gerlens,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00024874,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347359A1.html
-10/17/2017,Michael Dudley,Guntersville,AL,34.3445,-86.3271,EB-FIELDSCR-16-00021618,FO,15000,http://transition.fcc.gov/eb/Orders/2017/DA-17-1018A1.html
-10/13/2017,Dwayne M. Banks Marilyn F. Banks,Waco,TX,31.552,-97.1385,EB-FIELDSCR-17-00024879,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347265A1.html
-10/12/2017,Good Guyz Painting & Pressure Cleaning LLC,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00025129,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347261A1.html
-10/12/2017,Dominique Jean Louis,Lauderdale Lakes,FL,26.1856,-80.1715,EB-FIELDSCR-17-00025100,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347256A1.html
-10/12/2017,Elizabeth Plaisime,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025095,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347262A1.html
-10/12/2017,Jean Dumay,Sunrise,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025092,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347260A1.html
-10/12/2017,Elizabeth Plaisime,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025090,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347263A1.html
-10/12/2017,Patrick Jean Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347257A1.html
-10/12/2017,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347252A1.html
-10/12/2017,Acerome Jean Charles Concord Promo,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025244,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347250A1.html
-10/12/2017,Geraldine B. Ballentine,Hackensack,NJ,40.8885,-74.0486,EB-FIELDNER-17-00025032,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347253A1.html
-10/12/2017,Kimberley Baptiste,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024808,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347254A1.html
-10/12/2017,New Fellowship Baptist Church,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347264A1.html
-10/12/2017,Quinton Joseph,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00024272,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347258A1.html
-10/12/2017,Michelle Joseph,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00024272,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347255A1.html
-10/12/2017,Tracy Wetmore,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023979,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347259A1.html
-10/5/2017,Jeffrey Darius,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347107A1.html
-10/4/2017,Brindley Marshall,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024510,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347088A1.html
-10/3/2017,Garfield Smith,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025056,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347064A1.html
-10/3/2017,Rochisnel Jerome & Lydie Toussaint,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00025048,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347065A1.html
-10/3/2017,ONEWAVE LLC,Fort Lauderdale,FL,26.1214,-80.1305,EB-FIELDSCR-17-00025022,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347066A1.html
-10/3/2017,Pauline Ferguson,Lake Worth,FL,26.6012,-80.1536,EB-FIELDNER-17-00024383,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347063A1.html
-10/3/2017,Migui Mora,Queens,NY,40.7278,-73.7514,EB-FIELDNER-17-00023948,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-347062A1.html
-9/26/2017,Fabrice Polynice Harold Sido and Veronise Sido,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00018596,NAL,144344,http://transition.fcc.gov/eb/Orders/2017/FCC-17-127A1.html
-9/12/2017,Bosch Communications Systems,Lincoln,NE,40.8171,-96.7111,EB-FIELDWR-17-00024754,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346740A1.html
-9/11/2017,Yvon Grandchamps,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024617,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346671A1.html
-9/11/2017,Quinton Joseph,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346668A1.html
-9/11/2017,Michelle Joseph,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346667A1.html
-9/11/2017,Talya Andrea Lantz,Boston,MA,42.3577,-71.0641,EB-FIELDNER-16-00021684,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346670A1.html
-9/11/2017,Richard Clouden,Boston,MA,42.3577,-71.0641,EB-FIELDNER-16-00021684,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346669A1.html
-9/6/2017,Robenson Thermitus,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024580,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346565A1.html
-8/28/2017,Anchorage Baptist Temple,Anchorage,AK,61.2147,-149.8765,EB-FIELDWR-17-00024477,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346394A1.html
-8/28/2017,Vital Desvarieux,Spring Valley,NY,41.1181,-74.0464,EB-FIELDNER-17-00024938,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346395A1.html
-8/28/2017,John F. Resignac,Monroe,NY,41.3291,-74.1883,EB-FIELDNER-17-00024936,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346389A1.html
-8/28/2017,Willie Abreu Ulloa,New York,NY,40.7486,-73.9933,EB-FIELDNER-17-00024805,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346396A1.html
-8/28/2017,Julian R. Gutierrez,Yonkers,NY,40.9407,-73.8883,EB-FIELDNER-17-00024799,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346392A1.html
-8/28/2017,Jonathan Michael Campbell,Uniontown,PA,39.8981,-79.7326,EB-FIELDNER-17-00024774,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346391A1.html
-8/28/2017,Kacy Rankine,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024726,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346393A1.html
-8/28/2017,Ian Duprey,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024700,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346388A1.html
-8/28/2017,Cortelyou 2902 LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024700,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346386A1.html
-8/28/2017,Ginord Desir Francine Henda Desir,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346387A1.html
-8/25/2017,Wilfrid Salomon Samuel Salomon,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024576,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346373A1.html
-8/24/2017,Wilfrid Salomon,Lauderdale Lakes,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024576,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346372A1.html
-8/21/2017,Gilberto Cerrato and Jamie Cerrato,Sherwood,AR,34.8017,-92.2452,EB-FIELDSCR-17-00024373,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346306A1.html
-8/18/2017,Kevin and Allison Blume,Mishawaka,IN,41.6499,-86.1614,EB-FIELDNER-17-00024194,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346301A1.html
-8/17/2017,Anslo Alezy,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00024709,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346282A1.html
-8/17/2017,Lawrence Mason,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023358,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346283A1.html
-8/14/2017,Jean Amilcar,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00024826,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346231A1.html
-8/14/2017,Roger Bailey,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00024377,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346232A1.html
-8/11/2017,Stewart Kantor,San Jose,CA,37.3911,-121.889,EB-FIELDWR-17-00024047,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346202A1.html
-8/11/2017,Jemima Jean Lucas,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024850,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346205A1.html
-8/11/2017,Jean Carries,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024832,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346192A1.html
-8/11/2017,Michael Palache,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00024824,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346197A1.html
-8/11/2017,Venette Innocent,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00024578,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346201A1.html
-8/11/2017,Reginald C. Brooks & Geneveive Brooks,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00024574,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346200A1.html
-8/11/2017,Cameron K. Brown,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024574,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346197A1.html
-8/11/2017,Audrian White,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00024377,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346204A1.html
-8/11/2017,Joseph Alcide Baguidy,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346203A1.html
-8/10/2017,Ernest J. Nardi,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024685,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346171A1.html
-8/9/2017,American College Express LLC,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346151A1.html
-8/9/2017,Frances V. Chapman,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00024383,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346152A1.html
-8/2/2017,Albo Investments LLC,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024490,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-346067A1.html
-7/26/2017,Vilnord Simon,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00019795,FO,15000,http://transition.fcc.gov/eb/Orders/2017/DA-17-687A1.html
-7/26/2017,Wilner Lundi,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-15-00019644,FO,15000,http://transition.fcc.gov/eb/Orders/2017/DA-17-688A1.html
-7/13/2017,Davina Mendes,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024274,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345784A1.html
-7/13/2017,Talya Andrea Lantz,Boston,MA,42.3577,-71.0641,EB-FIELDNER-16-00021684,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345786A1.html
-7/11/2017,Yvon Grand-Champ,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345762A1.html
-7/11/2017,Orlando Morillo,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024471,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345763A1.html
-7/11/2017,Howard A. Bryan,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00021786,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345761A1.html
-6/30/2017,Maria Santiago,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022523,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345663A1.html
-6/30/2017,Sean Marshall,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022165,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345660A1.html
-6/30/2017,Phillip Mahoney,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345662A1.html
-6/30/2017,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345661A1.html
-6/27/2017,Tracy and Gerard Peters,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345573A1.html
-6/27/2017,Clairelia and Walter Saint Fleur and Sylvie Grand-Pierre,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024230,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345572A1.html
-6/27/2017,Betty Sarfo,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-17-00024332,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345569A1.html
-6/27/2017,Wisland Georges New England Evangelical Church of Mount Olives,Medford,MA,42.3498,-71.0602,EB-FIELDNER-17-00024120,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345570A1.html
-6/27/2017,Wendy A. Lopez,Springfield,MA,42.1063,-72.5971,EB-FIELDNER-17-00023477,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345571A1.html
-6/22/2017,Mordechai Benishai,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024478,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345501A1.html
-6/22/2017,Alfredo Avendano,Bay Shore,NY,40.7391,-73.2595,EB-FIELDNER-17-00024215,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345499A1.html
-6/22/2017,Efrain Lanchi Ortega,Queens,NY,40.7278,-73.7514,EB-FIELDNER-17-00024174,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345500A1.html
-6/19/2017,Conroy Dawson,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00022155,FO,25000,http://transition.fcc.gov/eb/Orders/2017/DA-17-583A1.html
-6/8/2017,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345340A1.html
-6/6/2017,George Brown,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345258A1.html
-6/6/2017,Dexter Blake,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345257A1.html
-6/6/2017,Martin Sanchez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-16-00022164,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345256A1.html
-6/1/2017,Maria Santiago,New York,NY,40.7486,-73.9933,EB-FIELDNER-16-00022165,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-345260A1.html
-5/18/2017,Benjamin Klein,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023854,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-344975A1.html
-5/18/2017,Sean Marshall,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-16-00022165,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-344979A1.html
-5/17/2017,Nelson Quintanilla,Panorama City,CA,34.2258,-118.4482,EB-FIELDWR-15-00019621,PFR Order,25000,http://transition.fcc.gov/eb/Orders/2017/DA-17-466A1.html
-5/17/2017,Steve Marks,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023854,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-344977A1.html
-5/17/2017,George Fontan,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023854,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-344976A1.html
-5/12/2017,Vearl Pennington Michael Williamson,Morehead,KY,38.196,-83.4348,EB-FIELDSCR-16-00022288,NAL,144344,http://transition.fcc.gov/eb/Orders/2017/FCC-17-54A1.html
-5/11/2017,Rubena Hemmings,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022440,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-344923A1.html
-4/27/2017,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023640,NAL,20000,http://transition.fcc.gov/eb/Orders/2017/DA-17-389A1.html
-4/27/2017,Carlo Pierre-Louis,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-16-00021767,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348174A1.html
-4/26/2017,Rons Delofie,Hartford,CT,41.7888,-72.663,EB-FIELDNER-17-00024046,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348565A1.html
-4/25/2017,Tracy Wetmore,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023979,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348566A1.html
-4/18/2017,Ministerio Cristiano Hombres de Valor,Omaha,NE,41.1475,-96.0462,EB-FIELDWR-1700023838,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-356977A1.html
-3/30/2017,Sharon Clouden,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00023712,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-356981A1.html
-3/30/2017,Ramon Suarez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-17-00023743,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348247A1.html
-3/27/2017,Joshua Mehlman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023836,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348248A1.html
-3/25/2017,William M. Hughes,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023484,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348249A1.html
-3/25/2017,New Vision Multi Media Group,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-16-00022705,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348244A1.html
-3/21/2017,Francisco Roa,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00021869,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348179A1.html
-3/18/2017,Ministerio Cristiano Hombres de Valor,Omaha,NE,41.1475,-96.0462,EB-FIELDWR-1700023838,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344600A1.html
-3/15/2017,Charles Philome,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-16-00021884,FO,20000,http://transition.fcc.gov/eb/Orders/2017/DA-17-244A1.html
-3/14/2017,Maxo Georges & Gilberte Jean Baptiste Georges,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00023771,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344013A1.html
-3/14/2017,Maxo Georges & Gilberte Jean Baptiste Georges,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00023771,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-356979A1.html
-3/14/2017,Gloria Jimenez,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00023589,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344010A1.html
-3/14/2017,Nixon Ceme,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00023416,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-356980A1.html
-3/14/2017,Olivia Ulaje,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00023106,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344015A1.html
-3/14/2017,Olivia Ulaje,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00023106,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348568A1.html
-3/14/2017,Michele Hepburn,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344012A1.html
-3/14/2017,Dexter Blake,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-344009A1.html
-2/28/2017,Jose P. Inoa,Bayonne,NJ,40.6663,-74.1187,EB-FIELDNER-17-00021970,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343775A1.html
-2/28/2017,Jose P. Inoa,Bayonne,NJ,40.6663,-74.1187,EB-FIELDNER-17-00021970,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348176A1.html
-2/24/2017,Dwayne L. Smalling,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023556,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343778A1.html
-2/24/2017,Dwayne L. Smalling,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023556,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348245A1.html
-2/23/2017,Nelson Quintanilla,Panorama City,CA,34.2258,-118.4482,EB-FIELDWR-15-00019621,FO,25000,http://transition.fcc.gov/eb/Orders/2017/DA-17-112A1.html
-2/23/2017,Iglesia el Remanente Fraternidad Elim Inc. Belarmino Lara,Arleta,CA,34.2574,-118.4198,EB-FIELDWR-15-00019600,FO,25000,http://transition.fcc.gov/eb/Orders/2017/DA-17-111A1.html
-2/16/2017,Lincoln Maxwell,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023558,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343777A1.html
-2/16/2017,Lincoln Maxwell,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023558,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348246A1.html
-1/30/2017,Pierre Toussaint Mireille Marc,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00023438,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343410A1.html
-1/30/2017,Pierre Toussaint Mireille Marc,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00023438,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-356978A1.html
-1/30/2017,Cornel Morris Verna Harris,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00023381,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343408A1.html
-1/27/2017,Lafortune Volcey,Orlando,FL,28.5413,-81.3753,EB-FIELDSCR-16-00023258,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343256A1.html
-1/19/2017,Vasco Oburoni,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-15-00019024,FO,15000,http://transition.fcc.gov/eb/Orders/2017/DA-17-48A1.html
-1/12/2017,Conroy Dawson,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00022155,NAL,25000,http://transition.fcc.gov/eb/Orders/2017/DA-17-16A1.html
-1/3/2017,Lucas Medina Cristo la Solucion,Knightdale,NC,35.7866,-78.4806,EB-FIELDSCR-16-00023234,NOUO,,http://transition.fcc.gov/eb/FieldNotices/2003/DOC-343130A1.html
-1/3/2017,Lucas Medina Cristo la Solucion,Knightdale,NC,35.7866,-78.4806,EB-FIELDSCR-16-00023234,NOUO,,http://transition.fcc.gov/eb/Orders/2017/DOC-348562A1.html
+1/19/2017,102.3 FM  Worcester  MA,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-15-00019024,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019024
+6/8/2017,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019211
+6/30/2017,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019211
+2/26/2019,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,CD,1500,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019211
+10/31/2018,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,FO,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019211
+4/25/2018,Winston Tulloch,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-15-00019211,NAL,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019211
+10/26/2017,Jean Tullias,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-15-00019483,FO,3800,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019483
+6/8/2018,Ivan Angeles,Garfield,NJ,40.8785,-74.1078,EB-FIELDNER-15-00019896,MO&O,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-15-00019896
+7/13/2017,BigCityFM 101.3_100.3 BOSTON-MA,Boston,MA,42.3577,-71.0641,EB-FIELDNER-16-00021684,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021684
+9/11/2017,BigCityFM 101.3_100.3 BOSTON-MA,Boston,MA,42.3577,-71.0641,EB-FIELDNER-16-00021684,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021684
+4/27/2017,Carlo Pierre-Louis,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-16-00021767,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021767
+7/11/2017,Howard Bryan,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-16-00021786,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021786
+3/21/2017,Francisco Roa,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00021869,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021869
+2/28/2017,Jose P. Inoa,Bayonne,NJ,40.6663,-74.1187,EB-FIELDNER-16-00021970,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00021970
+6/19/2017,Conroy Dawson,Hackensack,NJ,40.8885,-74.0486,EB-FIELDNER-16-00022155,FO,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022155
+1/12/2017,Conroy Dawson,Hackensack,NJ,40.8885,-74.0486,EB-FIELDNER-16-00022155,NAL,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022155
+6/6/2017,Martin Sanchez,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-16-00022164,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022164
+5/18/2017,Sean Marshall,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022165,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022165
+6/30/2017,Sean Marshall,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022165,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022165
+5/18/2017,Sean Marshall,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-16-00022165,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022165
+6/30/2017,Sean Marshall,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-16-00022165,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022165
+5/11/2017,Alex Diaz,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022440,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022440
+5/11/2017,Rubena Hemmings,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-16-00022440,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022440
+6/1/2017,Maria Santiago,New York,NY,40.7486,-73.9933,EB-FIELDNER-16-00022523,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022523
+6/30/2017,Maria Santiago,New York,NY,40.7486,-73.9933,EB-FIELDNER-16-00022523,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022523
+1/25/2018,Maria Santiago,New York,NY,40.7486,-73.9933,EB-FIELDNER-16-00022523,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022523
+4/25/2017,Unknown-103.5 FM-Worcester,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-16-00022705,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-16-00022705
+3/14/2017,Dexter Blake,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+5/11/2017,Dexter Blake,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+6/6/2017,Dexter Blake,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+3/14/2017,Dexter Blake,Yonkers,NY,40.9407,-73.8883,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+5/11/2017,Dexter Blake,Yonkers,NY,40.9407,-73.8883,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+6/6/2017,Dexter Blake,Yonkers,NY,40.9407,-73.8883,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+3/14/2017,Michelle Hepburn,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+5/11/2017,Michelle Hepburn,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+6/6/2017,Michelle Hepburn,Mount Vernon,NY,40.9082,-73.8363,EB-FIELDNER-17-00023354,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023354
+11/20/2017,Nestor  Sanango,Roselle,NJ,40.6532,-74.2593,EB-FIELDNER-17-00023357,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023357
+8/17/2017,BHK 470 Park  LLC & JS3 Management  Inc.,Lakewood,NJ,40.077,-74.2059,EB-FIELDNER-17-00023358,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023358
+8/17/2017,Lawrence Mason,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023358,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023358
+4/25/2017,Gerlens Cesar,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023484,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
+10/20/2017,Gerlens Cesar,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023484,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
+2/12/2018,Gerlens Cesar,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023484,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
+2/24/2017,Dwayne L Small,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023556,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023556
+2/16/2017,Lincoln Maxwell,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023558,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023558
+3/30/2017,Ramon Suarez, Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-17-00023743,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023743
+8/28/2017,Ginord Desir/John Pierre 93.7 Brooklyn,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+11/9/2017,Ginord Desir/John Pierre 93.7 Brooklyn,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+5/15/2018,Ginord Desir/John Pierre 93.7 Brooklyn,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/11/2018,Ginord Desir/John Pierre 93.7 Brooklyn,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/12/2018,Ginord Desir/John Pierre 93.7 Brooklyn,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+8/28/2017,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+11/9/2017,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+5/15/2018,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/11/2018,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/12/2018,John Pierre,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+8/28/2017,John Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+11/9/2017,John Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+5/15/2018,John Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/11/2018,John Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+7/12/2018,John Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00023832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023832
+3/27/2017,Joshua Mehlman,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023836,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023836
+3/27/2017,National Headquarters of Torah Umesorah,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00023836,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023836
+5/17/2017,George Fontan,Lakewood,NJ,40.077,-74.2059,EB-FIELDNER-17-00023854,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
+5/17/2017,HAB HALSTED  LLC / Building Superintendent,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023854,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
+5/17/2017,HAB HALSTED  LLC / Landlord  94.3 East Orange,Lakewood,NJ,40.077,-74.2059,EB-FIELDNER-17-00023854,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
+10/3/2017,Migui Mora,Corona,NY,40.7463,-73.8606,EB-FIELDNER-17-00023948,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+10/31/2017,Migui Mora,Corona,NY,40.7463,-73.8606,EB-FIELDNER-17-00023948,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+4/25/2017,Tracy Wetmore,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023979,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
+10/12/2017,Tracy Wetmore,Everett,MA,42.4101,-71.052,EB-FIELDNER-17-00023979,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
+4/25/2017,Westmore Tracy,Beverly,MA,42.5608,-70.8773,EB-FIELDNER-17-00023979,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
+10/12/2017,Westmore Tracy,Beverly,MA,42.5608,-70.8773,EB-FIELDNER-17-00023979,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
+4/26/2017,Rons Delofie,Hartford,CT,41.7888,-72.663,EB-FIELDNER-17-00024046,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024046
+6/27/2017,Marantha Church,Medford,MA,42.3498,-71.0602,EB-FIELDNER-17-00024120,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024120
+6/27/2017,New England Evangelical Church of Mount Olives,Medford,MA,42.3498,-71.0602,EB-FIELDNER-17-00024120,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024120
+6/22/2017,Efrain Lanchi Ortega,Jackson Heights,NY,40.752,-73.8836,EB-FIELDNER-17-00024174,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+10/31/2017,Efrain Lanchi Ortega,Jackson Heights,NY,40.752,-73.8836,EB-FIELDNER-17-00024174,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+9/13/2018,Efrain Lanchi Ortega,Jackson Heights,NY,40.752,-73.8836,EB-FIELDNER-17-00024174,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+8/18/2017,Kevin and Allison  Blume,Mishawaka,IN,41.6499,-86.1614,EB-FIELDNER-17-00024194,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024194
+6/22/2017,Alfredo Avendano,Bay Shore,NY,40.7391,-73.2595,EB-FIELDNER-17-00024215,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024215
+9/11/2017,Michelle Joseph,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024272
+10/12/2017,Michelle Joseph,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024272
+9/11/2017,Quinton Joseph,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00024272,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024272
+10/12/2017,Quinton Joseph,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00024272,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024272
+7/13/2017,Davina Elena Mendes,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024274,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024274
+9/29/2017,Davina Elena Mendes,Boston,MA,42.3577,-71.0641,EB-FIELDNER-17-00024274,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024274
+7/13/2017,Davina Elena Mendes,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024274,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024274
+9/29/2017,Davina Elena Mendes,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024274,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024274
+6/27/2017,Betty Sarfo,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-17-00024332,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024332
+7/11/2017,Building Owner - Parkash 4769 LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024471,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024471
+7/11/2017,Building Owner - Parkash 4769 LLC,Jamaica,NY,40.7046,-73.7943,EB-FIELDNER-17-00024471,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024471
+7/11/2017,Orlando Morillo,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024471,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024471
+6/22/2017,Mordechai Benishai,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024478,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024478
+7/11/2017,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+11/3/2017,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+12/14/2017,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+7/27/2018,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+6/18/2019,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+12/12/2019,Ignace Jean Charles,Milton,MA,42.2534,-71.0759,EB-FIELDNER-17-00024504,NAL,151005,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+7/11/2017,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+11/3/2017,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+12/14/2017,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+7/27/2018,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+6/18/2019,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+12/12/2019,Radio Concord-106.3,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024504,NAL,151005,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024504
+9/11/2017,Andrew Milvoix,Malden,MA,42.4296,-71.0607,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+12/14/2017,Andrew Milvoix,Malden,MA,42.4296,-71.0607,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+9/11/2017,Radio Energy 104.7 Mattapan  MA,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+12/14/2017,Radio Energy 104.7 Mattapan  MA,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+9/11/2017,Yvon Granchamps,Roslinedale,MA,42.2843,-71.1284,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+12/14/2017,Yvon Granchamps,Roslinedale,MA,42.2843,-71.1284,EB-FIELDNER-17-00024617,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024617
+8/10/2017,Ernest Nardi,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024685,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024685
+8/28/2017,Ian Duprey,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024700,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024700
+8/17/2017,Anslo Alezy,irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00024709,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024709
+8/28/2017,Kacy Rankine,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024726,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024726
+11/20/2017,Kacy Rankine,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024726,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024726
+11/20/2017,Mackinson Desna,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00024786,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024786
+11/20/2017,,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024787,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024787
+12/14/2017,,West Orange,NJ,40.7876,-74.2565,EB-FIELDNER-17-00024787,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024787
+11/20/2017,Fabian Gaskin,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00024787,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024787
+12/14/2017,Fabian Gaskin,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00024787,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024787
+8/28/2017,Julian R. Gutierrez,Yonkers,NY,40.9407,-73.8883,EB-FIELDNER-17-00024799,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024799
+5/10/2018,,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00024803,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024803
+5/10/2018,Cayemite Edner,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00024803,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024803
+8/28/2017,Vladimir Rosario,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024805,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024805
+11/1/2017,Vladimir Rosario,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00024805,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024805
+8/28/2017,Willie Abreu Ulloa,New York,NY,40.7486,-73.9933,EB-FIELDNER-17-00024805,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024805
+11/1/2017,Willie Abreu Ulloa,New York,NY,40.7486,-73.9933,EB-FIELDNER-17-00024805,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024805
+10/12/2017,Kimberly Baptiste,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024808,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024808
+12/22/2017,Kimberly Baptiste,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00024808,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024808
+11/1/2017,Ludwig Freiberg,Oxford,NJ,40.81,-74.9804,EB-FIELDNER-17-00024810,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024810
+11/1/2017,Milka Placencia,Perth Amboy,NJ,40.5192,-74.2755,EB-FIELDNER-17-00024814,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024814
+11/20/2017,Nicolas  Ronald,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00024816,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024816
+12/14/2017,Nicolas  Ronald,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00024816,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024816
+10/20/2017,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+12/20/2017,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+2/12/2018,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+10/20/2017,Gerlens Cesar,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+12/20/2017,Gerlens Cesar,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+2/12/2018,Gerlens Cesar,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00024874,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024874
+8/28/2017,John F. Resignac,Monroe,NY,41.3291,-74.1883,EB-FIELDNER-17-00024936,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024936
+8/28/2017,Vital Desvarieux,Spring Valley,NY,41.1181,-74.0464,EB-FIELDNER-17-00024938,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024938
+6/27/2019,Anibal Liriano,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025031,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025031
+6/27/2019,Dionicio (Diony) Nova,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025031,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025031
+10/12/2017,Geraldine Ballerine, Hackensack,NJ,40.8885,-74.0486,EB-FIELDNER-17-00025032,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025032
+11/9/2017,Victor Miller,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00025042,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025042
+10/4/2018,,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025078,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025078
+11/1/2017,Richard Hairston,Erie,PA,42.1239,-80.0864,EB-FIELDNER-17-00025127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025127
+11/9/2017,,Hartford,CT,41.7888,-72.663,EB-FIELDNER-17-00025135,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025135
+11/9/2017,Oraine Ennis,Trumbull,CT,41.2554,-73.21,EB-FIELDNER-17-00025135,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025135
+11/9/2017,Tamara Jackson,Hartford,CT,41.7888,-72.663,EB-FIELDNER-17-00025135,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025135
+11/9/2017,Tashai Martin Foster,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025135,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025135
+11/9/2017,,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-17-00025136,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025136
+11/9/2017,Shaneka N Abdul Abdullateef,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-17-00025136,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025136
+11/9/2017,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,Cornelius Medas,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,Darnett Daniels,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,Erron Simmonds,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,One Love Radio - 106.5/106.3 Bridgeport  CT, Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,One Love Radio - 106.5/106.3 Bridgeport  CT, Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,One Love Radio - 106.5/106.3 Bridgeport  CT, Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,One Love Radio - 106.5/106.3 Bridgeport  CT, Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,One Love Radio - 106.5/106.3 Bridgeport  CT, Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,One Love Radio,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,One Love Radio,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,One Love Radio,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,One Love Radio,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,One Love Radio,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/13/2018,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+4/18/2018,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+6/13/2018,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+5/20/2019,Timber Trail LLC,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025137,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025137
+11/9/2017,Power Tabernacle Ministries_CT,E. Hartford,CT,41.7791,-72.6222,EB-FIELDNER-17-00025164,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025164
+11/3/2017,David Cange,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025179,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025179
+10/4/2018,,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025211,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025211
+10/12/2017,2/14/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/28/2018,2/14/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/12/2019,2/14/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+10/12/2017,9/8/2017,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/28/2018,9/8/2017,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/12/2019,9/8/2017,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+10/12/2017,12/6/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/28/2018,12/6/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/12/2019,12/6/2018,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+10/12/2017,Frantz Pascal,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/28/2018,Frantz Pascal,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+3/12/2019,Frantz Pascal,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025224,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025224
+10/12/2017,Acerome Jean Charles,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-17-00025244,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025244
+10/12/2017,Concord Promo,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025244,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025244
+11/1/2017,Jiminez Jonathan Alcantara,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-17-00025290,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025290
+10/12/2017,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+10/20/2017,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+12/20/2017,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+2/12/2018,Dominique Donna,Randolph,MA,42.1744,-71.0509,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+10/12/2017,TeleBoston 92.1 Randolph,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+10/20/2017,TeleBoston 92.1 Randolph,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+12/20/2017,TeleBoston 92.1 Randolph,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+2/12/2018,TeleBoston 92.1 Randolph,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025342,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025342
+10/12/2017,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+10/20/2017,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+12/20/2017,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+2/12/2018,Cesar Gerlens,Bridgewater,MA,41.9803,-70.972,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+10/12/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+10/20/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+12/20/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+2/12/2018,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+10/12/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+10/20/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+12/20/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+2/12/2018,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
+11/1/2017,William Batiste,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025369,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025369
+1/4/2018,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
+7/11/2018,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
+6/5/2019,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
+11/9/2017,Hype FM,Stroudsburg,PA,40.985,-75.2555,EB-FIELDNER-17-00025400,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025400
+12/22/2017,Hype FM,Stroudsburg,PA,40.985,-75.2555,EB-FIELDNER-17-00025400,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025400
+11/20/2017,,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00025420,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025420
+11/20/2017,Jean  Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025457
+5/3/2018,Jean  Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025457
+10/4/2018,Jean  Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025457
+12/13/2017,Christopher Suessle,Pleasant Valley,NY,41.7395,-73.8079,EB-FIELDNER-17-00025458,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025458
+11/3/2017,Dacypher Radio/88.5 Mattapan  MA,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025460,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025460
+3/30/2017,Ivan Angeles,Garfield,NJ,40.8785,-74.1078,EB-FIELDNER-17-00025462,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025462
+4/18/2018,Godfrey Jones,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025595,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025595
+3/26/2018,Parkash 1718 LLC,Jamaica,NY,40.7046,-73.7943,EB-FIELDNER-17-00025596,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025596
+12/21/2017,Eliezer Gomez,Union City,NJ,40.771,-74.0207,EB-FIELDNER-17-00025620,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025620
+12/21/2017,MMG Bergenline Inc.,New York,NY,40.7486,-73.9933,EB-FIELDNER-17-00025620,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025620
+1/4/2018,Andy Liriano,Jersey City,NJ,40.76,-74.0671,EB-FIELDNER-17-00025622,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025622
+12/22/2017,Michael Anderson,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-17-00025632,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025632
+3/26/2018,108 Field Place Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-17-00025676,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025676
+12/22/2017,Sason Merceus,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00025718,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025718
+3/6/2018,Daniel Thelisma,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-17-00025761,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025761
+4/3/2018,Radio Unidad 100.9,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-17-00025807,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025807
+6/13/2018,Jack Akaffou,New Haven,CT,41.3172,-72.9268,EB-FIELDNER-17-00025808,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025808
+4/3/2018,William Cotter,Stratford,CT,41.2063,-73.1335,EB-FIELDNER-17-00025809,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025809
+9/21/2018,William Cotter,Stratford,CT,41.2063,-73.1335,EB-FIELDNER-17-00025809,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025809
+5/16/2019,William Cotter,Stratford,CT,41.2063,-73.1335,EB-FIELDNER-17-00025809,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025809
+6/13/2018,Max Hamoy,Danbury,CT,41.3913,-73.4531,EB-FIELDNER-17-00025810,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025810
+2/12/2018,Nicholas Oluyemi,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025877,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025877
+2/12/2018,Nicholas Oluyemi,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025877,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025877
+4/11/2018,Kingsford Bloomfield,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026113,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026113
+4/3/2018,Nnanna  Okoro,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026245,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026245
+3/6/2018,Robert Bekune,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026247,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026247
+3/28/2018,Angel Pinzon,Ossining,NY,41.1716,-73.8517,EB-FIELDNER-18-00026249,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026249
+4/5/2018,Angel Pinzon,Ossining,NY,41.1716,-73.8517,EB-FIELDNER-18-00026249,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026249
+3/5/2018,Troy Cheever,Deltaville,VA,37.5526,-76.3445,EB-FIELDNER-18-00026281,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026281
+4/11/2018,John Hart,Blackstone,VA,37.0921,-77.9784,EB-FIELDNER-18-00026298,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026298
+6/13/2018,Mario Louis,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-18-00026336,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026336
+4/24/2018,Greg Banks,Huntingdon,PA,40.4948,-78.0142,EB-FIELDNER-18-00026390,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026390
+4/24/2018,Daniel  Sigcho,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-18-00026406,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026406
+5/22/2018,Steffon Samaroo,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026421,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026421
+6/13/2018,Reginald Simeon,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026467,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026467
+4/5/2018,Monique Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026469
+7/23/2019,Monique Pierre,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026469
+4/5/2018,Roberman Chery,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026469
+7/23/2019,Roberman Chery,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026469
+4/24/2018,Pastor Ragive Dulcio,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-18-00026470,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026470
+4/18/2018,Geovanny Valdez,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026478,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026478
+1/31/2019,Patrick Reid,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026503,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026503
+3/5/2019,Rafael Vidal,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026578,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026578
+5/16/2019,Yvrose Etienne,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00026704,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026704
+6/27/2019,Real Deal FM,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00026708,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026708
+6/27/2019,Real Deal FM,Flushing,NY,40.7511,-73.8214,EB-FIELDNER-18-00026708,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026708
+6/27/2019,Real Deal FM,VALLEY STREAM,NY,40.6732,-73.7045,EB-FIELDNER-18-00026708,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026708
+5/10/2018,Nicolas Ronald,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-18-00026725,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026725
+6/13/2018,Segundo Velasquez,Danbury,CT,41.3913,-73.4531,EB-FIELDNER-18-00026800,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026800
+3/5/2019,Trevor Forde,Laurelton,NY,40.6717,-73.752,EB-FIELDNER-18-00026976,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026976
+7/11/2018,The Juice Broadcasting Network LLC,Providence,RI,41.8181,-71.4088,EB-FIELDNER-18-00026998,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00026998
+7/11/2018,Maglie Plaismond,Cranston,RI,41.7755,-71.4357,EB-FIELDNER-18-00027022,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027022
+11/14/2018,,Hanover Township,PA,41.2181,-75.9184,EB-FIELDNER-18-00027160,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027160
+6/27/2019,B87-7_Boston,Boston,MA,42.3577,-71.0641,EB-FIELDNER-18-00027235,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027235
+6/27/2019,Paul Parara,Boston,MA,42.3577,-71.0641,EB-FIELDNER-18-00027235,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027235
+11/5/2018,K&A Management LLC,Roslyn,NY,40.7945,-73.6505,EB-FIELDNER-18-00027249,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027249
+10/25/2018,1325 Realty LLC,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027250,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027250
+9/21/2018,Doron Walton,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027328,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027328
+8/28/2018,Trevor Hutchinson,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-18-00027334,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027334
+10/1/2018,Trevor Hutchinson,Bridgeport,CT,41.1765,-73.2,EB-FIELDNER-18-00027334,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027334
+8/22/2018,Rock 104 Williamson,Williamson,WV,37.6814,-82.2749,EB-FIELDNER-18-00027344,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027344
+10/1/2018,Jean  Francois,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027368,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027368
+5/29/2019,Jean  Francois,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027368,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027368
+10/23/2018,John  Glen,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027418
+2/22/2019,John  Glen,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027418,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027418
+12/19/2018,Bernice  Mitchell,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-18-00027611,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027611
+12/13/2018,Joaquin Pena,Newburgh,NY,41.5232,-74.0392,EB-FIELDNER-18-00027630,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027630
+11/14/2018,,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-18-00027679,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027679
+11/20/2018,Peter  Diablo,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00027782,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027782
+10/23/2018,Kenmil Arias,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-18-00027849,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027849
+12/6/2018,Rodrick Moore,Prospect Park,NJ,40.9472,-74.183,EB-FIELDNER-18-00027947,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027947
+11/14/2018,John Palmeri,Middletown,NY,41.4494,-74.4332,EB-FIELDNER-18-00027967,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00027967
+2/22/2019,Gideon Yorke,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028114,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028114
+5/17/2019,1539-1547 Pitkin Ave. Realty LLC,Iselin,NJ,40.5716,-74.3167,EB-FIELDNER-18-00028120,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028120
+5/17/2019,99 Cent Express,BROOKLYN,NY,40.6944,-73.9915,EB-FIELDNER-18-00028120,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028120
+5/17/2019,Randolph Ferdinanad Ministries,BROOKLYN,NY,40.6944,-73.9915,EB-FIELDNER-18-00028120,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028120
+1/31/2019,Paul Cannon,Parlin,NJ,40.4607,-74.3042,EB-FIELDNER-18-00028125,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028125
+1/31/2019,Tara Cannon,Parlin,NJ,40.4607,-74.3042,EB-FIELDNER-18-00028125,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028125
+2/13/2019,1939 G.C. LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028148,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028148
+9/5/2019,1939 G.C. LLC,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028148,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028148
+3/12/2019,Fernando Navarro,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-18-00028149,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028149
+7/10/2019,Magreniase Raphael,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-18-00028189,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028189
+4/18/2019,Emmanuel Noel,Cumberland,RI,41.9515,-71.4196,EB-FIELDNER-18-00028214,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028214
+4/15/2019,Nathan and Amber Redman,Waldo,OH,40.4627,-83.0537,EB-FIELDNER-18-00028250,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028250
+5/17/2019,Melba Reid,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-18-00028293,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-18-00028293
+4/1/2019,,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028579
+4/1/2019,Emmanuel Opong,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028579
+4/1/2019,Maxwell Boamah,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028579,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028579
+3/12/2019,Milcia Maldonado,Beaver Meadows,PA,40.937,-75.9386,EB-FIELDNER-19-00028584,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028584
+5/10/2019,Milcia Maldonado,Beaver Meadows,PA,40.937,-75.9386,EB-FIELDNER-19-00028584,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028584
+5/10/2019,Pastor Tito J Paul,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028637,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028637
+5/29/2019,Ini Okpon,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028639,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028639
+4/18/2019,THE WAY OF MIND AND BODY,Akron,OH,41.0438,-81.5202,EB-FIELDNER-19-00028657,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028657
+4/18/2019,Warner Mendenhall,Akron,OH,41.0438,-81.5202,EB-FIELDNER-19-00028657,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028657
+8/29/2019,Joshua Warren,Martinsville,IN,39.4475,-86.4196,EB-FIELDNER-19-00028679,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028679
+4/24/2019,Alex  Bruno,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028693,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028693
+4/18/2019,Unity Radio 103.9 FM in Worcester MA,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00028708,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028708
+6/11/2019,Frank Lang,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00028711,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028711
+6/11/2019,Ron Adams,Ligonier,PA,40.2438,-79.2301,EB-FIELDNER-19-00028828,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028828
+6/27/2019,Elenilson Claros,Central Islip,NY,40.7859,-73.2008,EB-FIELDNER-19-00028844,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028844
+4/18/2019,Emmanuel Noel,Pawtucket,RI,41.8725,-71.3892,EB-FIELDNER-19-00028849,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00028849
+6/18/2019,,Hazleton,PA,40.9585,-75.9745,EB-FIELDNER-19-00029067,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029067
+5/29/2019,Manuel Pimentel,Clifton,NJ,40.8793,-74.143,EB-FIELDNER-19-00029094,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029094
+5/29/2019,Manuel Pimentel,Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-19-00029094,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029094
+8/22/2019,Ralph Hooper,Swanzey,NH,42.8648,-72.2927,EB-FIELDNER-19-00029106,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029106
+6/11/2019,Ron Adams,Ligonier,PA,40.2438,-79.2301,EB-FIELDNER-19-00029139,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029139
+6/18/2019,Radio TeleBoston- 92.1 Malden,Malden,MA,42.4296,-71.0607,EB-FIELDNER-19-00029169,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029169
+12/12/2019,Radio TeleBoston- 92.1 Malden,Malden,MA,42.4296,-71.0607,EB-FIELDNER-19-00029169,NAL,453015,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029169
+7/23/2019,STEVEN ROBINSON,Winchester,MA,42.4532,-71.1433,EB-FIELDNER-19-00029189,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029189
+7/23/2019,Rafael Martinez,Fords,NJ,40.537,-74.3126,EB-FIELDNER-19-00029195,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029195
+7/23/2019,Jose Sigifredo Torres,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-19-00029236,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029236
+7/23/2019,Marcos Eli  Flores,Brentwood,NY,40.7828,-73.2439,EB-FIELDNER-19-00029243,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029243
+7/23/2019,Fredis  Bonilla,Huntington Station,NY,40.8221,-73.3779,EB-FIELDNER-19-00029245,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029245
+7/31/2019,David Gutierrez,Westbury,NY,40.7839,-73.6028,EB-FIELDNER-19-00029278,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029278
+7/31/2019,Everton Ladrick,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-19-00029325,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029325
+9/5/2019,Litus Moise,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-19-00029326,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029326
+7/23/2019,Ricardo Allen,Irvington,NJ,40.7249,-74.2318,EB-FIELDNER-19-00029378,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029378
+9/5/2019,Pierre and Marie Carmelle Conde,Everette,MA,42.4101,-71.052,EB-FIELDNER-19-00029388,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029388
+8/29/2019,Francisco Fernandez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-19-00029493,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029493
+9/17/2019,Manuel Gonzalez,Paterson,NJ,40.9145,-74.1676,EB-FIELDNER-19-00029495,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029495
+11/13/2019,Expresso Latin Radio,Worcester,MA,42.2609,-71.8008,EB-FIELDNER-19-00029514,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029514
+9/5/2019,Fernando Viloria,Freeport,NY,40.6533,-73.5862,EB-FIELDNER-19-00029585,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029585
+10/30/2019,Maureen Scott,Waterbury,CT,41.5558,-73.0439,EB-FIELDNER-19-00029598,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029598
+9/26/2019,Jose Pichardo,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-19-00029649,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029649
+11/27/2019,Serge Valme,Brockton,MA,42.0799,-71.0352,EB-FIELDNER-19-00029693,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029693
+10/7/2019,,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029696,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029696
+11/13/2019,,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029773,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029773
+11/13/2019,John Herkaler,Montague,NJ,41.3002,-74.7611,EB-FIELDNER-19-00029789,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029789
+10/30/2019,Foster Straker,Brooklyn,NY,40.6944,-73.9915,EB-FIELDNER-19-00029856,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-19-00029856
+7/19/2018,FABRICE POLYNICE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-15-00018596,FO,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+9/26/2017,FABRICE POLYNICE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-15-00018596,NAL,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+7/19/2018,FABRICE POLYNICE,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-15-00018596,FO,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+9/26/2017,FABRICE POLYNICE,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-15-00018596,NAL,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+7/19/2018,HAROLD AND VERONISE SIDO,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00018596,FO,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+9/26/2017,HAROLD AND VERONISE SIDO,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00018596,NAL,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00018596
+7/26/2017,Wilner  Lundi,Boynton Beach,FL,26.5477,-80.0555,EB-FIELDSCR-15-00019644,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00019644
+7/26/2017,Wilner (Operator) Lundi,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-15-00019644,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00019644
+7/26/2017,Vilnord (Operator) Simon,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00019795,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00019795
+7/26/2017,Vilnord Simon,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-15-00019795,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00019795
+1/19/2018,Kedner Maxime,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-15-00020432,CD,2500,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-15-00020432
+10/17/2017,Mike Dudley,Guntersville,AL,34.3445,-86.3271,EB-FIELDSCR-16-00021618,FO,15000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00021618
+3/15/2017,Belle Radio FM 90.1,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-16-00021884,FO,20000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00021884
+1/29/2019,Vearl Pennington,Owingsville,KY,38.1435,-83.7675,EB-FIELDSCR-16-00022288,FO,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00022288
+5/12/2017,Vearl Pennington,Owingsville,KY,38.1435,-83.7675,EB-FIELDSCR-16-00022288,NAL,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00022288
+1/29/2019,W10BM,Morehead,KY,38.196,-83.4348,EB-FIELDSCR-16-00022288,FO,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00022288
+5/12/2017,W10BM,Morehead,KY,38.196,-83.4348,EB-FIELDSCR-16-00022288,NAL,144344,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00022288
+3/14/2017,Olivia (Property Owner) Ulaje,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-16-00023106,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00023106
+1/3/2017,Lucas Medina,Knightdale,NC,35.7866,-78.4806,EB-FIELDSCR-16-00023234,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00023234
+1/27/2017,,Orlando,FL,28.5413,-81.3753,EB-FIELDSCR-16-00023258,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-16-00023258
+1/30/2017,Hype Radio/Frankie Lexx/Brother Gary 89.5,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00023381,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023381
+3/14/2017,(Property owner) Nixon Ceme (Operator) Bato (786-230-0166),Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00023416,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023416
+1/30/2017,Pierre Toussaint,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00023438,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023438
+3/14/2017,Hype Radio/Frankie Lexx/Brother Gary 89.5,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00023589,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023589
+4/3/2017,Catedral De Jesus,Zebulon,NC,35.8374,-78.3101,EB-FIELDSCR-17-00023628,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023628
+4/26/2017,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023640,NAL,20000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023640
+10/3/2018,Sergio Plasencia,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023640,CD,2680,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023640
+3/30/2017,Sharon (Property Owner) CLOUDEN,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00023712,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023712
+3/14/2017,Jean Nelson & Maria (Property owners) Fanfan,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+11/20/2017,Jean Nelson & Maria (Property owners) Fanfan,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+3/14/2017,Vilnord Simon,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+11/20/2017,Vilnord Simon,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+3/14/2017,Vilnord Simon,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+11/20/2017,Vilnord Simon,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00023741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023741
+3/14/2017,Maxo Georges,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00023771,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00023771
+6/27/2017,CLAIRELIA and WALTER ST FLEUR SYLVIE GRANDPIERRE,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024230,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024230
+6/27/2017,Sylvie Grand-Pierre Prop Owners:  Clairelia and Walter St. Fleur and,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024230,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024230
+6/27/2017,Joseph (Tenant) Baguidy,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+8/11/2017,Joseph (Tenant) Baguidy,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+6/27/2017,Joseph Baguidy,Parkland,FL,26.3025,-80.2233,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+8/11/2017,Joseph Baguidy,Parkland,FL,26.3025,-80.2233,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+6/27/2017,PETERS TRACY PETERS GERARD,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+8/11/2017,PETERS TRACY PETERS GERARD,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024303,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024303
+8/11/2017,,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00024377,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024377
+8/14/2017,,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00024377,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024377
+8/11/2017,Roger (Operator) Bailey,Tamarac,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024377,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024377
+8/14/2017,Roger (Operator) Bailey,Tamarac,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024377,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024377
+10/16/2018,Joe Donalson,houston,TX,29.7575,-95.3652,EB-FIELDSCR-17-00024379,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024379
+10/16/2018,NEW BEGINNINGS FELLOWSHIP CHURCH OF HOUSTON,houston,TX,29.7575,-95.3652,EB-FIELDSCR-17-00024379,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024379
+8/9/2017,MA:  Unlicensed 88.7 - Lake Worth,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00024383,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024383
+10/3/2017,MA:  Unlicensed 88.7 - Lake Worth,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00024383,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024383
+8/2/2017,MA:  Unlicensed 88.7 - Hollywood,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024490,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024490
+10/4/2017,Boe da Lover,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024510,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024510
+12/5/2017,Boe da Lover,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024510,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024510
+8/11/2017,JACQUELINE SAINT-AMAND EST OF,MIAMI GARDENS,FL,25.9017,-80.3056,EB-FIELDSCR-17-00024574,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024574
+5/22/2018,JACQUELINE SAINT-AMAND EST OF,MIAMI GARDENS,FL,25.9017,-80.3056,EB-FIELDSCR-17-00024574,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024574
+8/11/2017,The Plug FM,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024574,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024574
+5/22/2018,The Plug FM,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024574,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024574
+8/24/2017,RADIO IDEAL FM,OAKLAND PARK,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+8/25/2017,RADIO IDEAL FM,OAKLAND PARK,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+12/8/2017,RADIO IDEAL FM,OAKLAND PARK,FL,26.1371,-80.1232,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+8/24/2017,WILFRID SALOMON,LAUDERDALE LAKES,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+8/25/2017,WILFRID SALOMON,LAUDERDALE LAKES,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+12/8/2017,WILFRID SALOMON,LAUDERDALE LAKES,FL,26.1856,-80.1715,EB-FIELDSCR-17-00024576,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024576
+8/11/2017,,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00024578,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024578
+9/6/2017,Energy FM,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024580,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024580
+12/5/2017,Energy FM,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00024580,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024580
+8/11/2017,94.7 West Palm Beach,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00024824,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024824
+8/14/2017,107.3 - West Palm Beach,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00024826,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024826
+8/11/2017,Jean Carries,Fort Lauderdale,FL,26.1214,-80.1305,EB-FIELDSCR-17-00024832,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024832
+8/11/2017,MA:  Unlicensed 98.1 - Miami,Biscayne Park,FL,25.894,-80.1819,EB-FIELDSCR-17-00024850,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024850
+8/9/2017,Jeffrey Darius,PEMBROKE PINES,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024851
+10/5/2017,Jeffrey Darius,PEMBROKE PINES,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024851
+8/9/2017,MA:  88.7 - 6011 Rodman St.,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024851
+10/5/2017,MA:  88.7 - 6011 Rodman St.,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00024851,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024851
+10/13/2017,Marilyn's Gift Gallery,Waco,TX,31.552,-97.1385,EB-FIELDSCR-17-00024879,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024879
+11/20/2017,JOCELYN JOSEPH,VERO BEACH,FL,27.6353,-80.4006,EB-FIELDSCR-17-00024998,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00024998
+10/3/2017,,Fort Lauderdale,FL,26.1214,-80.1305,EB-FIELDSCR-17-00025022,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025022
+10/3/2017,Rochisnel Jerome & Lydie Toussaint,North Lauderdale,FL,26.2153,-80.2207,EB-FIELDSCR-17-00025048,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025048
+10/3/2017,Garfield  Smith,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/31/2017,Garfield  Smith,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/3/2017,Garfield Smith (aka Brother Gary),Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/31/2017,Garfield Smith (aka Brother Gary),Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/3/2017,Garfield Smith,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/31/2017,Garfield Smith,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/3/2017,Garfield Smith,margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/31/2017,Garfield Smith,margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025056,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025056
+10/31/2017,MA:  Unlicensed 93.7 - Lake Worth,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025084,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025084
+10/31/2017,Rogers Noel,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-17-00025084,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025084
+10/12/2017,MA:  Unlicensed 104.7 - Delray Beach  FL,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025090,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025090
+11/20/2017,MA:  Unlicensed 104.7 - Delray Beach  FL,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025090,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025090
+10/12/2017,Altinor Etenod,Plantation,FL,26.1442,-80.1708,EB-FIELDSCR-17-00025092,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025092
+10/12/2017,Jean Dumay,Sunrise,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025092,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025092
+10/12/2017,ELIZABETH PLAISIME,DELRAY BEACH,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025095,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025095
+10/12/2017,Sondy Cemoin,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-17-00025095,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025095
+10/12/2017,106.3 - Lauderdale Lakes,Lauderdale Lakes,FL,26.1856,-80.1715,EB-FIELDSCR-17-00025100,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025100
+10/12/2017,DONY/ALI JOSEPH/ISNOR,POMPANO BEACH,FL,26.229,-80.1223,EB-FIELDSCR-17-00025129,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025129
+11/6/2017,,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00025229,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025229
+11/6/2017,SH&S Properties LLP,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00025229,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025229
+11/16/2017,ROSE  ALMONOR,POMPANO BEACH,FL,26.229,-80.1223,EB-FIELDSCR-17-00025286,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025286
+12/14/2017,New Orleans Airlift  Inc. dba The Music Box Village,New Orleans,LA,29.9551,-90.0755,EB-FIELDSCR-17-00025418,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025418
+12/14/2017,The Music Box Village,New Orleans,LA,29.9551,-90.0755,EB-FIELDSCR-17-00025418,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025418
+11/20/2017,,West Palm Beach,FL,26.7163,-80.0643,EB-FIELDSCR-17-00025469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025469
+11/20/2017,MA:  Unlicensed 97.1 - Riviera Beach,Riviera Beach,FL,26.7996,-80.0714,EB-FIELDSCR-17-00025469,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025469
+11/20/2017,Nelda (tenant) Jean,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+3/2/2018,Nelda (tenant) Jean,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+11/20/2017,Nelda Jean,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+3/2/2018,Nelda Jean,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+11/20/2017,Victor Suarez,Brooklyn,NY,40.6944,-73.9915,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+3/2/2018,Victor Suarez,Brooklyn,NY,40.6944,-73.9915,EB-FIELDSCR-17-00025496,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025496
+11/20/2017,Wanick & Rose Saint Fleur,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-17-00025507,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025507
+11/20/2017,Alejandrino (Property Owner) Ramos,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025519,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025519
+11/20/2017,Alejandrino Ramos,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025519,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025519
+11/20/2017,Joseph Adner & Carlie,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025520,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025520
+11/20/2017,MA:  Unlicensed 92.7 - Homestead,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-17-00025520,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025520
+11/20/2017,,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00025577,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025577
+11/20/2017,. (Property Owners) 1973 Bay Ridge Parkway  Inc.,Pompano Beach,FL,26.229,-80.1223,EB-FIELDSCR-17-00025577,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025577
+12/19/2017,Iglesia La Nueva Jerusalen  Ciudad De La Verdad  Monte De Santidad Inc.,Baton Rouge,LA,30.4495,-91.1871,EB-FIELDSCR-17-00025638,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025638
+5/22/2018,Iglesia La Nueva Jerusalen  Ciudad De La Verdad  Monte De Santidad Inc.,Baton Rouge,LA,30.4495,-91.1871,EB-FIELDSCR-17-00025638,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025638
+12/20/2017,Wayne  Manning,OAKLAND PARK,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025680,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025680
+12/21/2017,.Teresa (Tenant/Mailing Address): Brogdon,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025700,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025700
+2/8/2018,.Teresa (Tenant/Mailing Address): Brogdon,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-17-00025700,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025700
+12/21/2017,Ali (Property Mgr): Yasin,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025700,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025700
+2/8/2018,Ali (Property Mgr): Yasin,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-17-00025700,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025700
+12/21/2017,. (Property owner): Blossom Dickenson,Miramar,FL,25.9886,-80.2112,EB-FIELDSCR-17-00025701,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025701
+12/21/2017,Blossom Dickenson,Miramar,FL,25.9886,-80.2112,EB-FIELDSCR-17-00025701,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025701
+2/8/2018,Candio Micheline,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025741
+2/8/2018,Micheline (Property owner/Mailing): Candio,Margate,FL,26.2498,-80.2119,EB-FIELDSCR-17-00025741,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025741
+12/21/2017,,Hollywood,FL,26.0129,-80.1211,EB-FIELDSCR-17-00025782,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025782
+12/21/2017,. (Property Owner):Country Wide Mortgage Funding LLC,Oakland Park,FL,26.1371,-80.1232,EB-FIELDSCR-17-00025782,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025782
+12/21/2017,Dexter Dixon,RIVIERA BEACH,FL,26.7996,-80.0714,EB-FIELDSCR-17-00025788,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-17-00025788
+8/7/2018,Ernie Santiago,San Juan,PR,18.4567,-66.1065,EB-FIELDSCR-18-00026038,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026038
+3/28/2018,CLAUDE & EDMA SAINTILMAR,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+4/18/2018,CLAUDE & EDMA SAINTILMAR,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+3/28/2018,FABRICE POLYNICE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+4/18/2018,FABRICE POLYNICE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+3/28/2018,FABRICE POLYNICE,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+4/18/2018,FABRICE POLYNICE,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+3/28/2018,JEROME MOULTRIE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+4/18/2018,JEROME MOULTRIE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+3/28/2018,MACIUS MASSENA,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+4/18/2018,MACIUS MASSENA,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026127,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026127
+3/28/2018,Freddie Rodriguez,Fayetteville,NC,35.0453,-78.834,EB-FIELDSCR-18-00026180,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026180
+4/9/2018,. (Property Owner): 14915 SOUTH RIVER DRIVE INC.,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026223,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026223
+4/9/2018,Marques (Operator) Dumerant,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+9/19/2018,Marques (Operator) Dumerant,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+4/9/2018,Primitive Church of West Palm Beach,Greenacres,FL,26.669,-80.1465,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+9/19/2018,Primitive Church of West Palm Beach,Greenacres,FL,26.669,-80.1465,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+4/9/2018,SIJC Trusted  LLC,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+9/19/2018,SIJC Trusted  LLC,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026287,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026287
+4/9/2018,LLC (Property Owner):  HP Andre Way,Delray Beach,FL,26.4551,-80.0792,EB-FIELDSCR-18-00026311,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026311
+10/15/2018,Emir Alberto  CHAPAS MORALES,Port Arthur,TX,29.888,-93.9589,EB-FIELDSCR-18-00026568,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026568
+7/12/2018,MA:  Unlicensed 92.1 - Homestead  FL,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00026582,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026582
+7/25/2018,Prospect Elementary School,Cleveland,TN,35.1536,-84.8825,EB-FIELDSCR-18-00026598,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026598
+8/22/2018,MA:  Unlicensed 87.9 - Vero Beach  FL,Vero Beach,FL,27.6353,-80.4006,EB-FIELDSCR-18-00026734,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026734
+5/22/2018,. (Property owner):  Credo LLC,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026779
+6/20/2018,. (Property owner):  Credo LLC,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026779
+5/22/2018,PRB ENTERTAINMENT INC d/b/a PLAY YO PART LOUNGE,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026779
+6/20/2018,PRB ENTERTAINMENT INC d/b/a PLAY YO PART LOUNGE,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00026779,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026779
+8/21/2018,,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00026780,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026780
+8/21/2018,Lisa Meleance,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00026780,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026780
+8/21/2018,MA:  Unlicensed 91.7 - Miami Gardens,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00026780,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00026780
+7/16/2018,Oasis RV Park,Van Horn,TX,31.0777,-104.7969,EB-FIELDSCR-18-00027068,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027068
+8/21/2018,Louise Kimbrough (Property Owners):  Minnie M. Wilkerson,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027282,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027282
+8/21/2018,MA:  Unlicensed 89.1 - Miami,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027283,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027283
+7/12/2018,William (Property owner): Puig,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00027284,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027284
+8/21/2018,c/o Garehouse Group Inc.   (Property Owner): Emerald Terrace LTD Partnership,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027286,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027286
+8/27/2018,98.5 Da Pound FM,MIAMI GARDENS,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027309,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027309
+8/27/2018,HENRY STREETER,MIAMI GARDENS,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027309,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027309
+9/18/2018,UNKNOWN  UNKNOWN,Lauderhill,FL,26.1442,-80.1708,EB-FIELDSCR-18-00027313,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027313
+8/27/2018,Radio RCH 23  Inc.,Florida City,FL,25.4449,-80.4946,EB-FIELDSCR-18-00027390,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027390
+10/16/2018,. (Operator):  Jose Sandoval Cortes,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027439,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027439
+10/16/2018,Jose Sandoval Cortes,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027439,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027439
+9/14/2018,RADIO VISION CELESTE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027569,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027569
+10/15/2018,Iglesia Bautista Renovacion Ministerio Internacional,Amarillo,TX,35.2056,-101.8415,EB-FIELDSCR-18-00027582,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027582
+11/13/2018,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027605
+8/22/2019,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NAL,10000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027605
+11/8/2018,. (Property Owner): Jean Pierre Lorelus,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00027778,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027778
+12/3/2018,. (Property Owner):  Miami Office Center LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027923,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027923
+12/3/2018,. (Property Owner):  Marie Preal,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00028068,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00028068
+12/3/2018,MATTHEW DESTIN,HOLLYWOOD,FL,26.0129,-80.1211,EB-FIELDSCR-18-00028104,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00028104
+2/25/2019,GB Holdings of Georgia  Inc / GB Ministries  Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028415
+4/2/2019,GB Holdings of Georgia  Inc / GB Ministries  Inc.,Decatur,GA,33.7734,-84.2932,EB-FIELDSCR-19-00028415,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028415
+3/27/2019,MA:  Unlicensed 88.7 - Miami Gardens,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028562,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028562
+3/27/2019,,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028564,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028564
+5/20/2019,,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00028564,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028564
+3/27/2019,Lisa Wuysdraelle Meleance,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-19-00028564,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028564
+5/20/2019,Lisa Wuysdraelle Meleance,Miami,FL,25.8334,-80.2821,EB-FIELDSCR-19-00028564,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028564
+4/11/2019,All in One Investment Group LLC (Property Owner):,Hallandale Beach,FL,25.9854,-80.1415,EB-FIELDSCR-19-00028687,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00028687
+8/23/2019,,North Miami,FL,25.894,-80.1819,EB-FIELDSCR-19-00029407,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00029407
+8/23/2019,Winston & Sonia (Property Owners):  Murdock,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-19-00029408,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00029408
+8/15/2019,JEAN VALSAINT,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-19-00029432,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00029432
+10/3/2019,Charles Goodwin,Lake Worth,FL,26.6012,-80.1536,EB-FIELDSCR-19-00029844,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00029844
+12/12/2019,ANSON BOSCICO,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-19-00030195,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00030195
+12/12/2019,LANETTE OCTELUS,NORTH MIAMI,FL,25.894,-80.1819,EB-FIELDSCR-19-00030195,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-19-00030195
+2/23/2017,Iglesia el Remanente Fraternidad Elim  Inc.,Arleta,CA,34.2574,-118.4198,EB-FIELDWR-15-00019600,FO,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-15-00019600
+2/23/2017,Nelson  Quintanilla,Panorama City,CA,34.2258,-118.4482,EB-FIELDWR-15-00019621,FO,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-15-00019621
+5/17/2017,Nelson  Quintanilla,Panorama City,CA,34.2258,-118.4482,EB-FIELDWR-15-00019621,Order re Petition for Reconsideration Issued,25000,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-15-00019621
+5/4/2017,Ortega Jr.,Hollister,CA,36.8477,-121.3895,EB-FIELDWR-17-00023723,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00023723
+4/18/2017,Cristiano Hombres de Valor,Omaha,NE,41.1475,-96.0462,EB-FIELDWR-17-00023838,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00023838
+8/28/2017,Bryan Dunfee,Anchorage,AK,61.2147,-149.8765,EB-FIELDWR-17-00024477,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00024477
+2/12/2018,William Nurre,Ashland,OR,42.1875,-122.6866,EB-FIELDWR-17-00025296,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025296
+11/15/2017,Jason Bird,Las Vegas,NV,36.1883,-115.1425,EB-FIELDWR-17-00025453,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025453
+2/16/2018,Barry Bennett,Nederland,CO,39.9709,-105.4753,EB-FIELDWR-17-00025893,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025893
+2/16/2018,Barry Bennett,Rollinsville,CO,39.8216,-105.2915,EB-FIELDWR-17-00025893,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025893
+2/16/2018,,Ward,CO,40.1097,-105.4634,EB-FIELDWR-17-00025894,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025894
+4/13/2018,Phil Brittin,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-17-00025895,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-17-00025895
+11/9/2018,Daryl Thomas,Carmichael,CA,38.6284,-121.3306,EB-FIELDWR-18-00025955,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00025955
+2/27/2018,Marina Radio FM,Des Moines,WA,47.4486,-122.3276,EB-FIELDWR-18-00025974,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00025974
+3/1/2018,Marina Radio FM,Des Moines,WA,47.4486,-122.3276,EB-FIELDWR-18-00025974,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00025974
+2/27/2018,Eric Evans,Yuma,AZ,32.7005,-114.644,EB-FIELDWR-18-00025988,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00025988
+5/18/2018,Danny Preston,Los Angeles,CA,33.9734,-118.249,EB-FIELDWR-18-00026073,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00026073
+2/16/2018,Darren Roebuck,Boulder,CO,40.0443,-105.2205,EB-FIELDWR-18-00026100,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00026100
+4/13/2018,Community Radio Network,Washington,DC,38.9084,-77.0187,EB-FIELDWR-18-00026170,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00026170
+10/16/2018,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00026466,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00026466
+5/15/2018,Thomas  Barnes,La Grande,OR,45.3268,-118.0885,EB-FIELDWR-18-00026591,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00026591
+2/7/2019,Nancy Graham,Santa Cruz,CA,36.9825,-122.0412,EB-FIELDWR-18-00027444,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027444
+10/18/2018,Mark Chanez,Casper,WY,42.8436,-106.3238,EB-FIELDWR-18-00027588,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027588
+2/11/2019,Cesar Ascarrunz,San Francisco,CA,37.7733,-122.4111,EB-FIELDWR-18-00027601,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027601
+10/1/2018,Free Radio Pinetree,Santa Clarita,CA,34.4988,-118.3973,EB-FIELDWR-18-00027634,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027634
+3/14/2019,Jesse Graham,Los Angeles,CA,33.9734,-118.249,EB-FIELDWR-18-00027847,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027847
+4/22/2019,Jesse Graham,Los Angeles,CA,33.9734,-118.249,EB-FIELDWR-18-00027847,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027847
+2/28/2019,Angelica Moreno,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/14/2019,Angelica Moreno,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/14/2019,Angelica Moreno,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/29/2019,Angelica Moreno,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+2/28/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/14/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/14/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+8/29/2019,Maria Gonzalez,Oxnard,CA,34.2037,-119.1778,EB-FIELDWR-18-00027886,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-18-00027886
+7/12/2019,Thomas Barnes,La Grande,OR,45.3268,-118.0885,EB-FIELDWR-19-00029179,NOUO,0,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDWR-19-00029179
