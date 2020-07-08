@@ -216,16 +216,13 @@ date,casename,city,state,lat,long,caseno,typeaction,amount,url
 10/20/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
 12/20/2017,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
 02/12/2018,Cesar Gerlens,Mattapan,MA,42.2735,-71.0945,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
-10/12/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
-10/20/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
-12/20/2017,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
-02/12/2018,Patrick Jean  Romain,Dorchester Center,MA,42.2876,-71.0724,EB-FIELDNER-17-00025344,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025344
 11/01/2017,William Batiste,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025369,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025369
 01/04/2018,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
 07/11/2018,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
 06/05/2019,Yohany Bonilla,Newark,NJ,40.7358,-74.1727,EB-FIELDNER-17-00025376,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025376
 11/09/2017,World Hype FM,PATERSON,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025400,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025400
 12/22/2017,World Hype FM,PATERSON,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025400,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025400
+06/17/2020,World Hype FM,PATERSON,NJ,40.9145,-74.1676,EB-FIELDNER-17-00025400,CD,1500.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025400
 11/20/2017,,Orange,NJ,40.7687,-74.2352,EB-FIELDNER-17-00025420,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025420
 11/20/2017,Jean  Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025457
 05/03/2018,Jean  Charles,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00025457,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00025457
@@ -541,6 +538,7 @@ date,casename,city,state,lat,long,caseno,typeaction,amount,url
 09/14/2018,RADIO VISION CELESTE,MIAMI,FL,25.8334,-80.2821,EB-FIELDSCR-18-00027569,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027569
 10/15/2018,Iglesia Bautista Renovacion Ministerio Internacional,Amarillo,TX,35.2056,-101.8415,EB-FIELDSCR-18-00027582,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027582
 11/13/2018,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027605
+06/18/2020,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,FO,10000.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027605
 08/22/2019,Gerald Sutton,Alma,AR,35.4985,-94.2092,EB-FIELDSCR-18-00027605,NAL,10000.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027605
 11/08/2018,. (Property Owner): Jean Pierre Lorelus,Homestead,FL,25.4793,-80.4871,EB-FIELDSCR-18-00027778,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027778
 12/03/2018,. (Property Owner):  Miami Office Center LLC,Miami Gardens,FL,25.9017,-80.3056,EB-FIELDSCR-18-00027923,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDSCR-18-00027923
