@@ -8,8 +8,9 @@ var actionDetails = {
 };
 var caseTypeName={"NAL":"NAL", "NOUO":"NOUO", "FO":"FORFEITURE ORDER", "OTHER": "OTHER", "M.O.&O.":"M.O.&O.", "CD":"ORDER & CONSENT DECREE", "NOV":"NOV", "ERRATUM":"ERRATUM"};
 L.mapbox.accessToken = 'pk.eyJ1IjoiZmNjIiwiYSI6InBiaGMyLU0ifQ.LOmVYpUCFv2yWpbvxDdQNg';
-var map = L.mapbox.map('map', 'fcc.map-toolde8w')
+var map = L.mapbox.map('map')
       .setView([39.5, -98.5], 4);
+L.mapbox.styleLayer('mapbox://styles/mapbox/dark-v10').addTo(map);
 
 var radius = d3.scale.sqrt().range([12,40])
 var format = d3.time.format("%m/%d/%Y");
