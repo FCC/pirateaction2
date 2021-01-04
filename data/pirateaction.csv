@@ -41,6 +41,9 @@ date,casename,city,state,lat,long,caseno,typeaction,amount,url
 04/25/2017,Gerlens Cesar,Everett,MA,42.4101,-71.0520,EB-FIELDNER-17-00023484,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
 10/20/2017,Gerlens Cesar,Everett,MA,42.4101,-71.0520,EB-FIELDNER-17-00023484,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
 02/12/2018,Gerlens Cesar,Everett,MA,42.4101,-71.0520,EB-FIELDNER-17-00023484,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023484
+12/17/2020,BRG 3250 97 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00023506,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023506
+12/17/2020,BRG Management LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00023506,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023506
+12/17/2020,KRR Queens 3 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00023506,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023506
 02/24/2017,Dwayne L Small,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023556,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023556
 02/16/2017,Lincoln Maxwell,Bronx,NY,40.8217,-73.9216,EB-FIELDNER-17-00023558,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023558
 03/30/2017,Ramon Suarez, Passaic,NJ,40.8602,-74.1272,EB-FIELDNER-17-00023743,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023743
@@ -64,8 +67,15 @@ date,casename,city,state,lat,long,caseno,typeaction,amount,url
 05/17/2017,George Fontan,Lakewood,NJ,40.0770,-74.2059,EB-FIELDNER-17-00023854,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
 05/17/2017,HAB HALSTED  LLC / Building Superintendent,East Orange,NJ,40.7702,-74.2087,EB-FIELDNER-17-00023854,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
 05/17/2017,HAB HALSTED  LLC / Landlord  94.3 East Orange,Lakewood,NJ,40.0770,-74.2059,EB-FIELDNER-17-00023854,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023854
+10/03/2017,,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+10/31/2017,,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+12/17/2020,,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+10/03/2017,Bronstein Properties,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+10/31/2017,Bronstein Properties,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+12/17/2020,Bronstein Properties,Forest Hills,NY,40.7231,-73.8462,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
 10/03/2017,Migui Mora,Corona,NY,40.7463,-73.8606,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
 10/31/2017,Migui Mora,Corona,NY,40.7463,-73.8606,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
+12/17/2020,Migui Mora,Corona,NY,40.7463,-73.8606,EB-FIELDNER-17-00023948,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023948
 04/25/2017,Tracy Wetmore,Everett,MA,42.4101,-71.0520,EB-FIELDNER-17-00023979,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
 10/12/2017,Tracy Wetmore,Everett,MA,42.4101,-71.0520,EB-FIELDNER-17-00023979,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
 04/25/2017,Westmore Tracy,Beverly,MA,42.5608,-70.8773,EB-FIELDNER-17-00023979,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00023979
@@ -73,9 +83,22 @@ date,casename,city,state,lat,long,caseno,typeaction,amount,url
 04/26/2017,Rons Delofie,Hartford,CT,41.7888,-72.6630,EB-FIELDNER-17-00024046,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024046
 06/27/2017,Marantha Church,Medford,MA,42.3498,-71.0602,EB-FIELDNER-17-00024120,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024120
 06/27/2017,New England Evangelical Church of Mount Olives,Medford,MA,42.3498,-71.0602,EB-FIELDNER-17-00024120,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024120
+06/22/2017,BRG 3512 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+10/31/2017,BRG 3512 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+09/13/2018,BRG 3512 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+12/17/2020,BRG 3512 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+06/22/2017,BRG Management LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+10/31/2017,BRG Management LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+09/13/2018,BRG Management LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+12/17/2020,BRG Management LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
 06/22/2017,Efrain Lanchi Ortega,Jackson Heights,NY,40.7520,-73.8836,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
 10/31/2017,Efrain Lanchi Ortega,Jackson Heights,NY,40.7520,-73.8836,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
 09/13/2018,Efrain Lanchi Ortega,Jackson Heights,NY,40.7520,-73.8836,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+12/17/2020,Efrain Lanchi Ortega,Jackson Heights,NY,40.7520,-73.8836,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+06/22/2017,KRR Queens 1 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+10/31/2017,KRR Queens 1 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+09/13/2018,KRR Queens 1 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
+12/17/2020,KRR Queens 1 LLC,Great Neck,NY,40.7737,-73.7194,EB-FIELDNER-17-00024174,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024174
 08/18/2017,Kevin and Allison  Blume,Mishawaka,IN,41.6499,-86.1614,EB-FIELDNER-17-00024194,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024194
 06/22/2017,Alfredo Avendano,Bay Shore,NY,40.7391,-73.2595,EB-FIELDNER-17-00024215,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024215
 09/11/2017,Michelle Joseph,Dorchester,MA,42.3087,-71.0827,EB-FIELDNER-17-00024272,NOUO,0.00,https://www.fcc.gov/edocs/search-results?t=advanced&fileNumber=EB-FIELDNER-17-00024272
