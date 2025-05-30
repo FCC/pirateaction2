@@ -142,7 +142,7 @@ function showTableContent(action,state) {
     content += "<h2>Pirate " + caseTypeName[currentType] + " type action details in " + actionDetails.statename + ":</h2>";
     content += "<h4>Total pirate " + caseTypeName[currentType] + " type action cases: <span class='red'>" + dataByState[state][currentType + "Count"] + "</span></h4>";
     content += "<h4>Total amount of " + caseTypeName[currentType] + " type: <span class='red'>$" + dataByState[state][currentType + "Amount"] + "</span></h4>"
-    content += "<em>Click for a Breakdown of all Other type actions.</em>";
+    content += "<em>Click for a breakdown of all Other type actions.</em>";
     if (action == "click") {
       content += getActionDetails(state, currentType);
     }
